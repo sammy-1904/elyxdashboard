@@ -1,0 +1,32 @@
+{
+  "member": {
+    "name": "Rohan Patel",
+    "age": 46,
+    "gender": "Male",
+    "residence": "Singapore",
+    "travel_hubs": [
+      "UK",
+      "US",
+      "South Korea",
+      "Jakarta",
+      "Seoul"
+    ],
+    "occupation": "Regional Head of Sales for a FinTech company",
+    "health_goals": [
+      "Reduce risk of heart disease due to family history by December 2026",
+      "Enhance cognitive function and focus for sustained mental performance by June 2026",
+      "Implement annual full-body health screenings for early detection starting November 2025"
+    ],
+    "motivations": "Family history of heart disease; wants to proactively manage health for long-term career performance and to be present for his young children",
+    "wearables": [
+      "Garmin watch",
+      "considering Oura ring"
+    ],
+    "preferences": {
+      "communication": "WhatsApp, email coordination via PA Sarah Tan",
+      "response_time": "24-48 hours for non-urgent inquiries",
+      "reports": "Monthly consolidated health report + quarterly deep-dive",
+      "detail_level": "Executive summaries with access to granular data upon request"
+    }
+  }
+}

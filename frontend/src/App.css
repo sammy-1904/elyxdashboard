@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+}
+
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+}
+
+.site-layout-background {
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0,21,41,.08);
+}
+
+.ant-layout-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ant-card-small .ant-card-head {
+  min-height: 38px;
+  padding: 0 12px;
+  font-size: 12px;
+}
+
+.ant-card-small .ant-card-body {
+  padding: 12px;
+}
+
+/* Timeline customization */
+.ant-timeline-item-content {
+  margin-left: 8px;
+}
+
+/* Decision cards */
+.decision-card {
+  border-left: 4px solid #52c41a;
+  margin-bottom: 8px;
+}
+
+.decision-card:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  transform: translateY(-1px);
+  transition: all 0.3s ease;
+}
+
+/* Event cards */
+.event-card {
+  transition: all 0.3s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Chart containers */
+.chart-container {
+  padding: 16px;
+  background: #fafafa;
+  border-radius: 6px;
+  margin-bottom: 16px;
+}
+
+/* Tag styling */
+.ant-tag {
+  border-radius: 4px;
+  margin: 2px;
+}
+
+/* Progress bars */
+.ant-progress-line {
+  margin-bottom: 8px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .ant-col-8 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+  
+  .ant-col-12 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+/* Loading states */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}
+
+/* Error states */
+.error-container {
+  text-align: center;
+  padding: 40px;
+  color: #ff4d4f;
+}

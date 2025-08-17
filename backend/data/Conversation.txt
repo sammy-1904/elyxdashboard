@@ -1,0 +1,1387 @@
+# Month 1: September 2025 — Elyx x Rohan Conversation Log
+
+Note: All timestamps are local to the sender unless mentioned. Rohan’s home base is Singapore (SGT, UTC+8). Travel weeks noted inline.
+
+***
+
+## Week 1: Onboarding, Baselines, Scheduling
+
+[2025-09-02 08:10 SGT] Ruby (Concierge): Good morning, Rohan. Welcome to Elyx. I’ve coordinated your onboarding. Can I confirm permission to integrate Garmin and MyFitnessPal today? Also looping Sarah for scheduling.
+
+[2025-09-02 08:13 SGT] Sarah (PA): Confirming permission on both data integrations. Please share any consent links; I’ll action today.
+
+[2025-09-02 08:16 SGT] Ruby: Consent links sent to your email and Sarah’s. Proposed schedule this week:
+- Thu: Initial physician consult (virtual) with Dr. Warren, 45 min
+- Fri: Baseline movement screen with Rachel, 30 min
+- Sat: Nutrition intake review with Carla, 30 min
+Does this work?
+
+[2025-09-02 08:19 SGT] Rohan: Yes, that works. Time anytime after 6 PM SGT is easier for me.
+
+[2025-09-02 08:23 SGT] Ruby: Booked:
+- Thu 6:30 PM: Dr. Warren
+- Fri 6:15 PM: Rachel
+- Sat 10:00 AM: Carla
+Calendar invites sent to you and Sarah.
+
+[2025-09-02 10:02 SGT] Advik (Performance Scientist): Hi Rohan—Advik here. I’ll monitor your Garmin feed (sleep, HRV, training load). For the first week, no changes—just observe baseline. Please keep your usual 20-min morning routine and any runs.
+
+[2025-09-02 18:47 SGT] Rohan: Quick one—do you need my caffeine timing? I usually have coffee at 7:30 AM and 1:30 PM.
+
+[2025-09-02 18:51 SGT] Advik: Yes, helpful. Keep logging that in MyFitnessPal this week. I’ll overlay with your sleep latency and HRV tomorrow onwards.
+
+[2025-09-03 07:11 SGT] Rohan: I’m getting a low HRV warning today. Normal?
+
+[2025-09-03 07:17 SGT] Advik: Not unusual—first data ingestion can flag anomalies. Today, keep intensity light. Hydrate, 10-minute nasal-breathing walk post-lunch. We’ll track rebound tomorrow.
+
+[2025-09-04 09:02 SGT] Ruby: Reminder for Dr. Warren at 6:30 PM. Zoom link in calendar. Please have your family history details handy.
+
+[2025-09-04 18:31 SGT] Dr. Warren (Medical Strategist): Hi Rohan. Let’s review your goals and risk profile. I note family history of heart disease. We’ll target cholesterol, BP, inflammation, and cognitive performance. I’m ordering the comprehensive baseline diagnostic panel next week—this is your Month 0 baseline. We’ll repeat a full panel every 3 months to track progress.
+
+[2025-09-04 18:52 SGT] Rohan: Understood. I want to be proactive without getting overwhelmed. Keep things actionable.
+
+[2025-09-04 19:00 SGT] Dr. Warren: Perfect. I’ll summarize actions after labs. Minimal immediate changes: maintain your current routines for clean baseline.
+
+[2025-09-05 18:16 SGT] Rachel (Physiotherapist): Hi Rohan. Baseline movement screen complete. Key notes:
+- Hip flexor tightness; thoracic mobility limited.
+- Grip strength average for age; we’ll aim to improve.
+- Suggest initial strength protocol: 2x/week 25-min sessions, plus daily 10-min mobility flow.
+I’ll send your 2-week plan tonight.
+
+[2025-09-05 18:28 SGT] Rohan: Great. Please keep it doable during travel.
+
+[2025-09-05 18:31 SGT] Rachel: Absolutely—hotel-room friendly, minimal equipment. Your first 2-week block will include: split squats, push-ups (tempo), suitcase deadlift (single DB), plank breathing, and 90/90 hip flow.
+
+[2025-09-06 10:01 SGT] Carla (Nutritionist): Hi Rohan. Nutrition intake reviewed. You have a home cook—excellent. Phase 1 (2 weeks): 
+- Plate method at lunch/dinner: 50% veg, 25% lean protein, 25% complex carbs.
+- Breakfast: Greek yogurt + berries + chia OR veggie omelet + 1 slice sourdough.
+- Add omega-3 supplement (1–2g EPA/DHA daily).
+- Reduce late caffeine after 2 PM.
+I’ll send a chef brief for home.
+
+[2025-09-06 10:10 SGT] Rohan: Approved. Please email chef brief to my wife and our cook.
+
+[2025-09-06 10:13 SGT] Ruby: Shared with your wife and cook. Also confirming diagnostic panel appointment next Wed 7:30 AM at our partner clinic, Orchard. Fasting from 10:00 PM Tuesday.
+
+***
+
+## Week 2: Baseline Diagnostics, First Program Blocks Begin
+
+[2025-09-09 07:02 SGT] Ruby: Gentle reminder—fast from 10:00 PM tonight for tomorrow’s labs. Bring water, no coffee pre-draw. Car will not be arranged per your preference.
+
+[2025-09-10 07:24 SGT] Rohan: At the clinic now.
+
+[2025-09-10 09:11 SGT] Ruby: Done and dusted. Results in 48–72 hours. I’ll tentatively book Dr. Warren for Monday 6:30 PM to review.
+
+[2025-09-10 09:14 SGT] Rohan: Book it. Also, I’m considering Oura—worth adding?
+
+[2025-09-10 09:18 SGT] Advik: Yes, Oura complements Garmin: better sleep staging and nightly HRV. If you get it, we’ll integrate immediately. Not mandatory for Month 1.
+
+[2025-09-11 06:28 SGT] Rohan: Finished Rachel’s hotel-room strength session at home. Took 22 minutes. Felt solid.
+
+[2025-09-11 06:35 SGT] Rachel: Nice work. Focus on slow eccentrics and 2-second pause at the bottom of split squats. Send a form video next week if possible.
+
+[2025-09-11 12:03 SGT] Rohan: Question—does green tea at 3 PM affect sleep quality?
+
+[2025-09-11 12:11 SGT] Advik: For many, yes due to caffeine half-life. For Week 2, set a 2 PM caffeine cut-off and compare sleep latency, WASO, and HRV. Mini-experiment.
+
+[2025-09-12 08:57 SGT] Carla: How are the chef recipes working? Any friction?
+
+[2025-09-12 09:03 SGT] Rohan: Dinners are easy. Breakfast is rushed some days. I default to toast + butter.
+
+[2025-09-12 09:09 SGT] Carla: We’ll add a 2-minute option: high-protein yogurt cup + pre-cut berries + 1 tbsp nuts. Keep 3 ready cups in the fridge.
+
+[2025-09-13 09:41 SGT] Ruby: Lab results landed. Monday 6:30 PM with Dr. Warren confirmed. Zoom link attached.
+
+***
+
+## Week 3: Lab Review, First Adjustments, UK Travel
+
+[2025-09-15 06:21 SGT] Rohan: Traveling to London Sat–Thu next week. Time zones will be fun.
+
+[2025-09-15 06:24 SGT] Ruby: Noted. I’ll time-shift reminders to BST during your trip. We’ll also share “hotel breakfast swaps” for the UK.
+
+[2025-09-15 18:30 SGT] Dr. Warren: Rohan, thanks for waiting. Baseline highlights:
+- Lipids: LDL-C mildly elevated; ApoB borderline high. Lp(a) moderately elevated—this is relevant for family risk.
+- BP: Clinic reading borderline high; confirm with 1-week home monitoring (morning/evening).
+- Inflammation: hs-CRP slightly elevated.
+- Glucose control: Fasting normal; OGTT with paired insulin shows mild hyperinsulinemia—early insulin resistance tendency.
+- Thyroid/Cortisol/Sex hormones: Within reference, slightly high cortisol AM—consistent with high work demand.
+- Micronutrients: Omega-3 index low-moderate; recommend supplementation.
+- Heavy metals: Within acceptable, mercury slightly elevated likely from seafood—recheck in 3 months.
+- Biological age: Slightly above chronological by ~1.5 years—improvable with cardio/metabolic changes.
+Plan (Phase 1, 8 weeks):
+1) Nutrition: Increase omega-3, reduce refined carbs on travel days, add 30g protein at breakfast.
+2) Exercise: 2x strength + 2x zone 2 (30–40 min) weekly; 1 day optional intervals.
+3) Sleep/stress: 10-minute evening wind-down; 1 “no-laptop-in-bed” rule.
+4) BP: Home monitoring 7 days; salt awareness on travel.
+5) Re-test: Full panel again in Month 3.
+Questions?
+
+[2025-09-15 18:49 SGT] Rohan: Clear. What’s the implication of elevated Lp(a)?
+
+[2025-09-15 18:56 SGT] Dr. Warren: It’s a genetically influenced marker that increases cardiovascular risk independent of LDL-C. We manage via aggressive LDL/ApoB reduction, lifestyle optimization, and potential pharmacotherapy later. We’ll tailor based on your next panel and response.
+
+[2025-09-16 07:02 SGT] Rohan: Starting home BP today.
+
+[2025-09-16 07:05 SGT] Ruby: Great. Please measure seated, after 5 minutes rest, no caffeine 30 minutes before; log morning and evening for 7 days.
+
+[2025-09-16 21:04 SGT] Carla: UK hotel breakfast tips:
+- Swap pastries for eggs + smoked salmon + tomatoes.
+- Add a fruit; skip juices.
+- If rushed: Greek yogurt + nuts + 1 banana.
+Dinner: prioritize grilled protein + veg; if pub, choose baked/roasted mains and sparkling water first.
+
+[2025-09-17 06:14 SGT] Rohan: Noted. Also, any view on dark chocolate at night?
+
+[2025-09-17 06:19 SGT] Carla: Fine in 1–2 squares 70%+ cacao; avoid within 2 hours of sleep to minimize caffeine impact.
+
+[2025-09-18 06:40 SGT] Rachel: Exercise refresh (Weeks 3–4):
+- Strength A: Goblet squat, DB row, RDL, side plank.
+- Strength B: Split squat, push-up tempo, single-leg hip hinge, dead bug.
+- Zone 2: 2 sessions 35 min; RPE 4–5/10 (nose-breathing sustainable pace).
+- Mobility: 10 min nightly hip/tonic extension + thoracic rotations.
+Hotel ready.
+
+[2025-09-19 09:22 SGT] Advik: HRV improved slightly after 2 PM caffeine cut-off. Sleep latency down by ~6–10 minutes past 3 nights. Keep this going in UK if possible.
+
+[2025-09-21 08:03 BST] Rohan (London): Landed. Jet lag is mild. Did 25-min Zone 2 on treadmill.
+
+[2025-09-21 08:09 BST] Ruby: I’ve shifted reminders to BST for the week. Daily nudge at 6:30 AM for movement, 9:00 PM for wind-down.
+
+***
+
+## Week 4: UK Business Trip, Adherence Challenges, Weekly Reports
+
+[2025-09-22 06:41 BST] Rohan: Meetings stacked; breakfast was a croissant. I’ll try to adjust tomorrow.
+
+[2025-09-22 06:48 BST] Carla: Understood. Low-friction swap: add 2 boiled eggs or yogurt alongside; keeps protein up and stabilizes energy.
+
+[2025-09-22 21:12 BST] Rohan: Skipping strength today—late dinner.
+
+[2025-09-22 21:18 BST] Rachel: No worries. Convert to a 10-minute “minimum effective dose”:
+- 2 sets: 8–10 push-ups, 10 bodyweight squats, 20-second side planks each side, 90/90 switches x6. Done.
+
+[2025-09-23 07:23 BST] Rohan: BP travel readings slightly higher. Might be salt?
+
+[2025-09-23 07:29 BST] Dr. Warren: Likely a combo of sleep disruption, higher sodium, and flight stress. We’ll look at the 7-day average when you’re back. Continue logging; prioritize hydration and early dinner.
+
+[2025-09-24 20:50 BST] Rohan: Read about time-restricted eating helping lipids. Worth trying?
+
+[2025-09-24 20:58 BST] Advik: It can help by reducing late-night intake and total energy, improving insulin sensitivity for some. Let’s pilot a gentle 12:12 window after you return to Singapore, not during travel week.
+
+[2025-09-25 06:38 BST] Ruby: Mid-month weekly report (Summarized):
+- Wins: Sleep latency improved with caffeine cut-off; 3 Zone 2 sessions so far; breakfast protein up 4/7 days.
+- Risks: Elevated travel BP readings; 1 strength session missed; hs-CRP slightly high baseline—watch recovery load.
+- Focus next 7 days: Minimum effective movement on travel days; hydration goal 2.5–3.0L; evening wind-down consistency.
+
+[2025-09-25 22:04 BST] Rohan: Got it. Will do 10-minute minimum tonight.
+
+[2025-09-26 07:15 BST] Rohan: Question—does sauna help HRV?
+
+[2025-09-26 07:22 BST] Advik: For many, yes—sauna can support relaxation and parasympathetic tone if used earlier in the day or several hours before bed. If hotel has one and you’re recovered, 10–15 minutes at low-moderate heat is fine.
+
+[2025-09-27 18:05 SGT] Ruby (back to SGT): Welcome back. Tomorrow I’ll push a consolidated Month 1 summary and your Week 5–6 updates.
+
+[2025-09-28 08:22 SGT] Rohan: Back on local time. Did Zone 2 outdoors; felt good.
+
+[2025-09-28 09:01 SGT] Rachel: Nice. We refresh exercises tomorrow. Any joint niggles?
+
+[2025-09-28 09:07 SGT] Rohan: Slight right knee discomfort on stairs.
+
+[2025-09-28 09:15 SGT] Rachel: We’ll regress split squats depth; add isometric wall sit 3x30s and TKE band work. Send a 10-second stair descent video if possible.
+
+[2025-09-29 07:40 SGT] Ruby: Month 1 Summary (Exec):
+- Adherence: ~55% to plan. Strong on Zone 2, variable on strength during travel.
+- Sleep: Improved latency when caffeine cut-off observed; total sleep 6h20m average—goal 7h.
+- BP: Home readings pending consolidation; travel week higher than baseline.
+- Nutrition: Breakfast protein improved; late dinners on travel days a challenge.
+- Labs: Lp(a) elevated; ApoB borderline; hs-CRP mild elevation—direction is to reduce ApoB and systemic inflammation.
+Actions for Month 2:
+1) Target 2 strength + 2 Zone 2 weekly; 1 micro-session allowed on high-pressure days.
+2) Keep caffeine cut-off at 2 PM; add 10-minute evening wind-down.
+3) Chef to rotate salmon/sardine twice weekly; swap refined carbs on travel dinners.
+4) Consider Oura integration if purchased.
+Key Dates:
+- Exercise refresh today (Weeks 5–6).
+- Travel: Sarah to share October schedule for US trip late month.
+- Quarterly full diagnostic: Scheduled for November (Month 3), I’ll block the week of Nov 10.
+
+[2025-09-29 07:49 SGT] Rohan: Looks good. Let’s lock it.
+
+[2025-09-29 08:15 SGT] Rachel: Weeks 5–6 Plan:
+- Strength A: Goblet squat (reduced ROM if knee twinge), single-arm row, hinge to wall, suitcase carry.
+- Strength B: Step-up low box, incline push-up, hip bridge march, bird dog.
+- Conditioning: Zone 2 x2 (35–40 min), optional 6x45s brisk incline intervals with full recovery once weekly if recovered.
+- Mobility: Couch stretch + thoracic rotation nightly, 8–10 min.
+Form cues attached.
+
+[2025-09-29 12:05 SGT] Carla: Chef menu refresh sent: 
+- Salmon bowl with quinoa, greens, avocado (Mon/Thu).
+- High-protein yogurt cups prepped Sun/Tue.
+- Travel snack kit list (nuts, jerky, instant oats, electrolytes).
+
+[2025-09-29 21:02 SGT] Rohan: Another nerdy question—what’s the signal we’re looking for in ApoB reduction? Percent change or absolute?
+
+[2025-09-29 21:08 SGT] Dr. Warren: Both matter. Our aim is to push ApoB to a lower risk zone given your Lp(a). We’ll assess absolute level and trend. If lifestyle plus diet is insufficient by Month 3–6, we’ll discuss additional therapies.
+
+[2025-09-30 06:22 SGT] Advik: HRV trendline stabilized post-travel; training load is appropriate. Keep Zone 2 today and early dinner. Expect better sleep efficiency tonight.
+
+[2025-09-30 07:01 SGT] Ruby: Closing Month 1—great start, Rohan. October calendar:
+- Weekly: Monday check-in + Friday micro-report.
+- Oct Week 3–4: US trip per Sarah’s schedule.
+- Exercise refresh: Oct 14.
+- Contingency: If adherence dips below 50% in travel week, we’ll auto-switch to micro-sessions + walking target 8,000 steps/day.
+Ping me anytime for logistics; I’ll keep friction low.
+
+# Month 2: October 2025 — Elyx x Rohan Conversation Log
+
+Note: All timestamps are local to the sender unless noted. Rohan’s home base is Singapore (SGT, UTC+8). Travel weeks noted inline.
+
+***
+
+## Week 1: Consistency Push, Minor Niggles, Data Experiments
+
+[2025-10-01 07:12 SGT] Ruby (Concierge): Good morning, Rohan. Kicking off October. Quick reminders: Monday check-ins, Friday micro-reports, exercise refresh on Oct 14, and US trip late month. Will coordinate with Sarah for time zones.
+
+[2025-10-01 07:18 SGT] Rohan: Thanks, Ruby. Let’s keep it tight. I’m aiming for 2 Zone 2 + 2 strength this week.
+
+[2025-10-01 07:25 SGT] Advik (Performance Scientist): Great target. Mini-experiment: maintain 2 PM caffeine cut-off and add 5-minute evening nasal breathing before the wind-down. I’ll watch HRV and sleep efficiency shifts.
+
+[2025-10-01 18:09 SGT] Rachel (Physiotherapist): How’s the right knee on stairs after last week’s regressions?
+
+[2025-10-01 18:15 SGT] Rohan: Better. Low-box step-ups feel fine. Mild discomfort only when rushing.
+
+[2025-10-01 18:22 SGT] Rachel: Keep the reduced ROM goblet squats. Add isometric wall sit 3x30s post-session. Log any pain >3/10.
+
+[2025-10-02 08:41 SGT] Carla (Nutritionist): Chef confirms salmon bowls Mon/Thu and yogurt cups Sun/Tue. Travel snack kit is stocked at home. Any friction points?
+
+[2025-10-02 08:47 SGT] Rohan: Late dinners happen 2–3 nights/week. Hard to avoid with work.
+
+[2025-10-02 08:55 SGT] Carla: Strategy: If dinner after 9 PM, halve the carb portion, add sparkling water, and close the kitchen 2 hours before bed. We’ll test impact on sleep and HR.
+
+[2025-10-03 07:03 SGT] Rohan: Quick Q—does afternoon sunlight actually help sleep?
+
+[2025-10-03 07:10 SGT] Advik: Yes—15–20 minutes outdoor light in the first half of the day improves circadian anchoring. On travel weeks, use this aggressively to fight time-zone drift.
+
+[2025-10-04 09:26 SGT] Ruby: Friday micro-report:
+- Adherence: 2 strength, 1 Zone 2 so far.
+- Sleep: Latency improved; average 6h35m (goal 7h).
+- Knee: Stable with regressions.
+- Focus: One more Zone 2 this weekend, earlier dinner Sat/Sun.
+
+[2025-10-04 09:33 SGT] Rohan: Locked in. Zone 2 tomorrow morning.
+
+***
+
+## Week 2: Exercise Refresh Prep, Cognitive Focus, Scheduling US Trip
+
+[2025-10-07 06:59 SGT] Ruby: Confirming exercise refresh with Rachel on Oct 14 at 6:15 PM SGT. US trip: Oct 21–28 to New York and San Francisco. Sarah looped for local times.
+
+[2025-10-07 07:04 SGT] Sarah (PA): Confirmed. Please send any travel-specific guidance by Oct 18.
+
+[2025-10-07 20:21 SGT] Rohan: Reading about creatine for cognition—worth considering?
+
+[2025-10-07 20:28 SGT] Dr. Warren (Medical Strategist): Generally safe and may support cognition and training. Let’s start at 3–5g/day, preferably earlier in the day to avoid any GI discomfort near bedtime. Carla will integrate into your plan.
+
+[2025-10-07 20:35 SGT] Carla: I’ll add creatine monohydrate 5g/day to your supplement stack and brief your cook to mix into a morning smoothie on home days. Travel days: single-serve sachets.
+
+[2025-10-08 06:37 SGT] Rohan: Garmin shows HRV dip after late dinner. Coincidence?
+
+[2025-10-08 06:43 SGT] Advik: Not a coincidence for many—late meals elevate overnight HR and reduce HRV. Keep the “half carbs after 9 PM” rule and aim to finish dinner 2–3 hours before bed when possible.
+
+[2025-10-09 18:12 SGT] Rachel: Ahead of the Oct 14 refresh—how’s the hinge pattern? Any back tightness?
+
+[2025-10-09 18:18 SGT] Rohan: Hinge to wall feels good. No back pain. Grip strength feels slightly better.
+
+[2025-10-09 18:25 SGT] Rachel: Excellent. We’ll progress hinge depth slightly and add suitcase carry distance. Keeping knee-friendly options.
+
+[2025-10-10 09:02 SGT] Ruby: Friday micro-report:
+- Adherence: 55% this week—1 session short due to late work day.
+- Sleep: Avg 6h28m; efficiency improved on earlier dinners.
+- Nutrition: Breakfast protein consistent 5/7 days.
+- Action: One strength + one Zone 2 this weekend; travel prep checklist on Oct 18.
+
+[2025-10-10 09:10 SGT] Rohan: Understood. I’ll get both in.
+
+***
+
+## Week 3: Exercise Refresh, Travel Prep, Time-Zone Strategy
+
+[2025-10-14 18:15 SGT] Rachel (Refresh Weeks 7–8): Updated plan:
+- Strength A: Goblet squat to box (pain-free ROM), single-arm row, RDL (light-moderate), side plank with reach.
+- Strength B: Step-up low box, incline push-up (slower tempo), hip bridge march, bird dog with exhale.
+- Conditioning: Zone 2 x2 (40 min), optional hills/incline 6x45s on good days.
+- Mobility: Couch stretch, thoracic rotation, 90/90 transitions nightly 8–10 minutes.
+- Accessory: Suitcase carry 3x30–40m on A days.
+
+[2025-10-14 18:23 SGT] Rohan: Looks good. I’ll be in hotels next week—will adapt.
+
+[2025-10-15 07:06 SGT] Advik: US time-zone protocol:
+- Flight day: front-load daylight exposure pre-flight.
+- On arrival: 20–30 min walk outdoors, local meal timing, 2 PM local caffeine cut-off.
+- Nights 1–2: 3mg melatonin if needed; 10–15 min wind-down breathwork.
+
+[2025-10-15 09:44 SGT] Carla: Travel food plan:
+- Breakfast: Eggs + Greek yogurt + fruit; skip juice.
+- Lunch: Protein + veg; swap fries for salad.
+- Dinner after 9 PM: halve carbs; sparkling water pre-meal.
+- Snacks: Nuts, jerky, instant oats (hotel kettle), electrolytes.
+- Sodium: Choose grilled/roasted; ask for sauces on the side.
+
+[2025-10-16 07:51 SGT] Rohan: I’ll try a 12:12 eating window after travel—okay?
+
+[2025-10-16 07:57 SGT] Advik: Yes—great to start post-travel. We’ll compare HRV and resting HR week over week.
+
+[2025-10-17 08:59 SGT] Ruby: Friday micro-report:
+- Training: On track for 2 strength + 2 Zone 2 this week.
+- Sleep: Trending up—two nights at 6h50m.
+- Travel: Reminders will auto-shift to ET and PT. I’ll send hotel gym options once Sarah shares bookings.
+
+[2025-10-17 09:05 SGT] Sarah (PA): Hotels booked: NYC (Midtown) Oct 21–24; SF (SoMa) Oct 24–28. Both have basic gyms.
+
+[2025-10-18 10:18 SGT] Ruby: Travel checklist sent to email and WhatsApp: supplement sachets, resistance bands, snack kit, melatonin, electrolytes, and printed hotel-room workouts.
+
+***
+
+## Week 4: US Business Trip (NYC → SF), Adherence Dips, Tactical Adjustments
+
+[2025-10-21 20:12 EDT] Rohan (NYC): Landed. Long flight. Did a 20-min walk outside. Dinner will be late.
+
+[2025-10-21 20:18 EDT] Ruby: Noted. Switching reminders to EDT. Keep dinner lighter, halve carbs, and aim for a 10-minute wind-down.
+
+[2025-10-22 06:42 EDT] Rohan: Woke early. Gym has dumbbells and a treadmill. Do I go Zone 2 or strength?
+
+[2025-10-22 06:48 EDT] Rachel: Start with Zone 2 35–40 min today to flush flight fatigue. Strength A tomorrow if sleep is ≥6h.
+
+[2025-10-22 23:07 EDT] Rohan: Dinner meeting ran late. Skipping strength.
+
+[2025-10-22 23:12 EDT] Rachel: Convert to the 10-minute minimum:
+- 2 sets: 10 incline push-ups, 12 bodyweight squats to chair, 20-sec side planks each side, 6x 90/90 transitions. Done.
+
+[2025-10-23 07:21 EDT] Rohan: Knee fine. Sleep 5h45m. Caffeine at 2 PM local time as planned.
+
+[2025-10-23 07:27 EDT] Advik: Good. Expect HRV to be lower during travel—aim for consistency, not perfection. Daylight walk again today.
+
+[2025-10-24 09:35 EDT] Ruby: Transit day to SF—reminders shifting to PT at your local time on arrival. Hydrate and walk during layover if possible.
+
+[2025-10-24 19:04 PDT] Rohan (SF): Checked in. Quick walk outside. Late dinner again.
+
+[2025-10-24 19:11 PDT] Carla: For late dinners: protein + veg, skip bread/basket, sparkling water first, and if dessert is mandatory socially, share and take 2–3 bites.
+
+[2025-10-25 08:02 PDT] Rohan: Question—okay to sauna tonight?
+
+[2025-10-25 08:08 PDT] Advik: Yes if you’re not too depleted; keep it 10–12 minutes, earlier in the evening, followed by a cool shower and gentle mobility. Avoid right before bed.
+
+[2025-10-26 07:48 PDT] Rohan: Managed Zone 2 this morning. Feeling better.
+
+[2025-10-26 07:55 PDT] Rachel: Excellent. Optional: 2 sets suitcase carry if dumbbells available; otherwise, brisk 10-minute incline finish.
+
+[2025-10-27 21:36 PDT] Rohan: Final client dinner went long. Only walked today.
+
+[2025-10-27 21:41 PDT] Ruby: That’s okay—travel standard applies. Tomorrow’s flight home: aim for an aisle stretch every 90 minutes and 500ml water per 3 hours.
+
+***
+
+## Month-End Consolidation: Summary, Adjustments, and Month 3 Preparation
+
+[2025-10-29 09:14 SGT] Ruby (back to SGT): Welcome home, Rohan. I’ll push your Month 2 summary and Week 9–10 updates tomorrow. Also blocking your November full diagnostic the week of Nov 11—fasting morning slot at Orchard clinic.
+
+[2025-10-29 09:19 SGT] Rohan: Book it. Prefer Tue or Wed morning.
+
+[2025-10-29 09:26 SGT] Ruby: Held Wed Nov 12, 7:30 AM SGT. Fasting from 10 PM the night before. I’ll send prep notes.
+
+[2025-10-30 07:42 SGT] Advik: Post-travel read: HRV is rebounding; resting HR elevated by ~2–3 bpm vs pre-trip—typical. Keep Zone 2 today, earlier dinner, and 10-minute wind-down.
+
+[2025-10-30 12:05 SGT] Carla: Any friction on supplements while traveling?
+
+[2025-10-30 12:10 SGT] Rohan: Missed omega-3 and creatine 3 days in SF.
+
+[2025-10-30 12:16 SGT] Carla: Understood. We’ll set a travel capsule organizer and a nightly “supplement check” reminder for future trips.
+
+[2025-10-30 18:20 SGT] Rachel: Any knee flare after the trip?
+
+[2025-10-30 18:26 SGT] Rohan: Solid. Step-ups felt stable. Ready to progress cautiously next refresh.
+
+[2025-10-31 08:15 SGT] Ruby: Month 2 Summary (Executive):
+- Adherence: ~50% overall. Strong Zone 2 consistency; strength sessions dipped during US trip, mitigated by 10-minute minimums.
+- Sleep: Average 6h25m; best nights on earlier dinners and evening breathwork. Travel nights 5h30–5h50.
+- Wearables: HRV dipped during travel; rebounded on return. Daylight exposure + caffeine cut-off maintained.
+- BP: Home readings stable pre-trip; slightly higher during travel. Continue morning/evening checks 2 days next week for spot validation.
+- Nutrition: Breakfast protein consistent; late dinners managed with half-carbs strategy. Missed omega-3/creatine on 3 travel days.
+- Musculoskeletal: Knee stable with regressions; hinge progression tolerated.
+- Member-initiated queries: Caffeine timing, creatine for cognition, sunlight for sleep, sauna, and TRE—addressed with mini-experiments and tactics.
+Actions for Month 3:
+1) Training: 2 strength + 2 Zone 2 weekly, with travel micro-sessions as fallback. Next refresh due Oct 28 + Nov 11 (will align post-labs).
+2) Sleep: Maintain 2 PM caffeine cut-off; keep 10-minute wind-down; aim for 7h on non-travel weeks.
+3) Nutrition: Reinforce omega-3 and creatine adherence; chef to rotate oily fish twice weekly; maintain late-dinner strategy.
+4) BP: Spot-check twice next week; be sodium-aware on client dinners.
+Key Dates:
+- Full diagnostic panel: Wed Nov 12, 7:30 AM SGT (fasting).
+- Post-lab review with Dr. Warren: Fri Nov 14, 6:30 PM SGT.
+- Monthly consolidated report cadence continues; quarterly deep dive this month.
+
+[2025-10-31 08:23 SGT] Rohan: Thanks, team. Let’s push ApoB and inflammation down this quarter.
+
+[2025-10-31 08:30 SGT] Dr. Warren: Agreed. Post-labs we’ll tighten the lipid strategy and consider pharmacotherapy if needed based on ApoB and Lp(a) context.
+
+[2025-10-31 09:02 SGT] Ruby: I’ll coordinate all logistics and keep friction low. Have a great weekend, Rohan.
+
+
+# Month 3: November 2025 — Elyx x Rohan Conversation Log
+
+Note: All timestamps are local to the sender unless noted. Rohan’s home base is Singapore (SGT, UTC+8). This month includes the quarterly full diagnostic panel and review.
+
+***
+
+## Week 1: Pre-Lab Setup, Light Deload, Focus on Consistency
+
+[2025-11-01 08:02 SGT] Ruby (Concierge): Kicking off November. Full diagnostic panel is booked for Wed Nov 12, 7:30 AM at Orchard clinic (fasting from 10 PM Nov 11). I’ll send prep notes and a checklist next week.
+
+[2025-11-01 08:08 SGT] Rohan: Thanks, Ruby. Keeping things steady till labs.
+
+[2025-11-01 08:15 SGT] Advik (Performance Scientist): Suggest a light deload in Week 2 (the days around your lab) so recovery is clean. Maintain 2 Zone 2 and 1–2 strength, lower total volume by ~20%.
+
+[2025-11-01 11:40 SGT] Carla (Nutritionist): Pre-lab nutrition guidance: keep routine consistent; no extreme changes. Continue omega-3 and creatine. Avoid alcohol 48h before labs for cleaner triglyceride/inflammation read.
+
+[2025-11-01 18:22 SGT] Rachel (Physiotherapist): Any knee feedback after October’s travel?
+
+[2025-11-01 18:29 SGT] Rohan: Knee stable. Step-ups and goblet squats to box feel fine. No pain >2/10.
+
+[2025-11-02 07:03 SGT] Ruby: Weekly plan posted: reminders Mon check-in, Fri micro-report. Confirming no travel first two weeks; potential Korea trip late month?
+
+[2025-11-02 07:10 SGT] Sarah (PA): Correct—Seoul tentatively Nov 24–28. I’ll confirm hotels by Nov 18.
+
+[2025-11-03 06:58 SGT] Rohan: Quick one—trialing 12:12 eating window from today.
+
+[2025-11-03 07:05 SGT] Advik: Logged. I’ll watch resting HR, HRV, and sleep efficiency for the next 10 days.
+
+[2025-11-04 21:14 SGT] Rohan: Dinner ended 9:45 PM. Swapped to half carbs. Sleep target 7h tonight.
+
+[2025-11-04 21:19 SGT] Carla: Good call. Add herbal tea 60–90 minutes pre-bed and keep kitchen closed 2 hours before lights out.
+
+[2025-11-05 09:20 SGT] Ruby: Friday micro-report (brought forward as you’re in meetings Fri):
+- Adherence: 2 Zone 2 done, 1 strength; on track.
+- Sleep: Avg 6h45m (up from 6h25m in Oct).
+- Nutrition: Breakfast protein 6/7 days; 12:12 window started.
+- Admin: Lab prep notes will go Monday.
+
+***
+
+## Week 2: Diagnostic Panel Week
+
+[2025-11-10 07:12 SGT] Ruby: Lab prep:
+- Fasting from 10 PM Tue.
+- Hydrate well Mon/Tue; no alcohol Mon/Tue.
+- Avoid high-intensity training Tue; light Zone 2 is okay.
+- Bring a snack for post-draw.
+Post-lab review with Dr. Warren is Fri Nov 14, 6:30 PM SGT.
+
+[2025-11-10 07:18 SGT] Rohan: Acknowledged.
+
+[2025-11-11 21:30 SGT] Rohan: Last meal 7:45 PM, then water only. No training today beyond a walk.
+
+[2025-11-12 07:26 SGT] Ruby: Good morning—clinic is ready. Text if you need anything.
+
+[2025-11-12 09:05 SGT] Rohan: All done. Heading to office.
+
+[2025-11-12 09:11 SGT] Ruby: Results in 48–72 hours. Friday review as scheduled.
+
+[2025-11-12 18:40 SGT] Rachel: Post-lab training for the next 48 hours: return to normal routine, but keep first strength session moderate. Focus on tempo and form.
+
+[2025-11-13 07:02 SGT] Rohan: Garmin HRV dipped a bit last night—probably work stress.
+
+[2025-11-13 07:08 SGT] Advik: Noted. Keep a 10–12 minute wind-down tonight. If possible, 15–20 min afternoon light exposure.
+
+***
+
+## Week 3: Lab Results Review, Plan Upgrade
+
+[2025-11-14 18:30 SGT] Dr. Warren (Medical Strategist): Thanks for joining, Rohan. Here’s your Q1 progress read:
+- Lipids: LDL-C modestly improved; ApoB decreased but remains above optimal for your Lp(a) risk profile. Lp(a) unchanged (genetic).
+- BP: Home average improved versus Oct travel week; clinic reading now mid-normal.
+- Inflammation: hs-CRP trending down slightly from baseline.
+- Glycemic control: Fasting stable; OGTT with insulin shows improved curve—early insulin resistance pattern softening.
+- Thyroid/Cortisol/Sex hormones: Within reference; AM cortisol still high-normal—consistent with workload.
+- Omega-3 index improved from low-moderate to moderate; continue current dose.
+- Heavy metals: Mercury down slightly; continue fish rotation and variety.
+- Biological age: Down by ~0.3 years vs baseline—notable for one quarter.
+Interpretation: Directionally positive across inflammation and glucose dynamics. Given your Lp(a), I recommend we tighten LDL/ApoB further. Two pathways:
+1) Lifestyle-first upgrade (next 6–8 weeks), then re-check.
+2) Discuss pharmacotherapy now (e.g., statin or other lipid-lowering) considering family risk.
+My recommendation: Start with a strong lifestyle intensification + consider low-dose statin if ApoB remains above target in the next panel.
+
+[2025-11-14 18:47 SGT] Rohan: Let’s push lifestyle first for 6–8 weeks. I prefer trying that before meds, unless you advise otherwise.
+
+[2025-11-14 18:55 SGT] Dr. Warren: That’s acceptable. We’ll set an aggressive but feasible plan, monitor adherence, and re-evaluate in February labs. If ApoB remains elevated, we’ll revisit pharmacotherapy then.
+
+[2025-11-14 19:05 SGT] Carla (Nutritionist): Lifestyle intensification plan:
+- Protein: 30–40g at breakfast daily.
+- Fats: Add 1 tbsp extra-virgin olive oil at lunch/dinner; oily fish 3x/week.
+- Fiber: ≥30g/day; add psyllium 1 tsp in water with lunch (start low to assess tolerance).
+- Carbs: Prefer legumes/whole grains; halve refined carbs at work dinners.
+- Travel kit upgrade: Add portable protein shakes; ensure omega-3 & creatine sachets.
+- Alcohol cap: Max 2 drinks/week, none within 3h of bedtime.
+Chef brief updated and sent.
+
+[2025-11-14 19:14 SGT] Rohan: Approved. Psyllium is new—let’s try.
+
+[2025-11-14 19:20 SGT] Rachel (Physiotherapist): Cardio/strength upgrade (Weeks 11–12):
+- Zone 2: 3x/week at 35–45 min; nasal breathing pace.
+- Intervals: 1 session/week, 6x45s brisk incline or hills, full recovery.
+- Strength A: Goblet squat to box, single-arm row, RDL, side plank with reach.
+- Strength B: Step-up low box, incline push-up tempo, hip bridge march, bird dog with exhale.
+- Mobility nightly: 8–10 min couch stretch + thoracic rotation; add thoracic extension on foam roller 60–90s.
+- Knee: Maintain pain-free ROM; progress only if 2/10.
+
+[2025-11-29 11:05 SGT] Carla: Chef rotation updated; adding sardines on toast (whole-grain) once weekly and a legume-forward dinner once weekly. Travel protein sachets and supplement organizer delivered by Monday.
+
+[2025-11-30 07:30 SGT] Advik: HRV has normalized post-Seoul; resting HR trending back to pre-trip. Stay with Zone 2 today and earlier dinner. Expect a good sleep window tonight.
+
+[2025-11-30 08:02 SGT] Ruby: Closing Month 3—nice work staying consistent through travel. I’ll keep December logistics crisp and time-zone aware.
+
+
+# Month 4: December 2025 — Elyx x Rohan Conversation Log
+
+Note: All timestamps are local to the sender unless noted. Rohan’s home base is Singapore (SGT, UTC+8). This month includes exercise refresh and a QBR with Neel. Holiday-season travel and social dinners expected; adherence target ~50–60% with tactical adjustments.
+
+***
+
+## Week 1: Holiday Month Setup, Adherence Strategy, Cognitive Focus
+
+[2025-12-01 07:08 SGT] Ruby (Concierge): Good morning, Rohan. December plan is live. Key dates: Exercise refresh Dec 9 (6:15 PM SGT), QBR with Neel Dec 18 (6:30 PM SGT). Tentative Jakarta trip Dec 11–15 as per Sarah—please confirm.
+
+[2025-12-01 07:14 SGT] Sarah (PA): Confirmed—Jakarta Dec 11–15, back late night Dec 15.
+
+[2025-12-01 07:20 SGT] Rohan: Thanks. December will be social—lots of dinners. Let’s keep it pragmatic.
+
+[2025-12-01 07:27 SGT] Carla (Nutritionist): Holiday strategy:
+- Pre-event: Protein-forward lunch + 500ml water.
+- At event: 1 plate rule, protein + veg first; bread/dessert optional, pick only one.
+- Alcohol: Max 2 drinks/night; avoid within 3h of sleep.
+- Post-event: Walk 10–15 minutes and finish with herbal tea.
+
+[2025-12-01 18:03 SGT] Advik (Performance Scientist): Cognition focus for long days:
+- Midday 10-minute daylight walk.
+- Afternoon slump: water + 90s box-breathing instead of coffee after 2 PM.
+- Sleep: 10-minute wind-down + dim screens 60 minutes before bed.
+
+[2025-12-02 06:41 SGT] Rachel (Physiotherapist): Knee check-in?
+
+[2025-12-02 06:47 SGT] Rohan: Stable. No pain >2/10. Flights sometimes stiffen hips.
+
+[2025-12-02 06:54 SGT] Rachel: Add plane mobility: ankle pumps x30, knee extensions x12, seated spinal rotations x6/side every 60–90 minutes. Post-flight 90/90s x8.
+
+[2025-12-03 09:28 SGT] Rohan: Garmin shows HRV slightly lower past two nights—late dinners.
+
+[2025-12-03 09:34 SGT] Advik: Expected. Use the 1-plate rule + earlier finish when possible. Push a 20–30-minute Zone 2 today to nudge recovery.
+
+[2025-12-04 08:52 SGT] Ruby: Friday micro-report (pulled forward):
+- Training: 1 strength, 1 Zone 2 so far.
+- Sleep: Avg 6h38m; later dinners reduce HRV.
+- Logistics: Exercise refresh Dec 9; Jakarta Dec 11–15. Hotel gyms verified.
+
+***
+
+## Week 2: Exercise Refresh, Jakarta Travel Prep
+
+[2025-12-09 18:15 SGT] Rachel (Refresh Weeks 15–16): Updated plan:
+- Strength A: Trap/goblet squat to box (pain-free ROM), single-arm DB row, RDL, side plank with reach.
+- Strength B: Step-up low box, incline push-up (3-1-3 tempo), hip bridge march, bird dog with long exhale.
+- Conditioning: Zone 2 x3 (35–45 min) on non-travel weeks; travel week target x2.
+- Intervals: Optional 6x45s incline on a recovered day.
+- Accessory: Suitcase carry 3x40–50m on A days.
+- Mobility: 8–10 min nightly—couch stretch, thoracic rotations, 90/90 transitions.
+
+[2025-12-09 18:23 SGT] Rohan: Looks good. Will be in Jakarta from Thursday.
+
+[2025-12-10 07:06 SGT] Carla: Jakarta dining swaps:
+- Prioritize grilled fish/chicken with steamed greens.
+- Rice: full portion at lunch if needed, half or skip at dinner.
+- Sauces on side; avoid sweet drinks. Carry nuts/jerky.
+
+[2025-12-10 07:12 SGT] Ruby: Travel pack ready at home: supplement organizer, protein sachets, electrolytes, mini resistance band. Reminders will auto-shift to WIB.
+
+[2025-12-11 09:02 WIB] Rohan (Jakarta): Landed. Gym is basic—DBs and treadmills.
+
+[2025-12-11 09:08 WIB] Rachel: Perfect. Use Strength A hotel variant tomorrow if sleep ≥6h; Zone 2 today for 35–40 minutes.
+
+[2025-12-12 21:15 WIB] Rohan: Client dinner heavy on sauces. Skipping rice helped. Heading for a 10-minute minimum.
+
+[2025-12-12 21:21 WIB] Rachel: Minimum set:
+- 2 sets: 10 incline push-ups, 12 squats to chair, 20s side planks/side, 6x 90/90 transitions. Follow with 5 minutes easy walk if safe.
+
+[2025-12-13 07:40 WIB] Rohan: Sleep 6h05m. HRV a bit low. Zone 2 or rest?
+
+[2025-12-13 07:46 WIB] Advik: Keep Zone 2 but cap at RPE 4/10, 30–35 minutes. Focus on nasal breathing. Hydrate well.
+
+[2025-12-14 18:58 WIB] Rohan: Missed creatine yesterday. Took omega-3 both days.
+
+[2025-12-14 19:05 WIB] Carla: Noted. Travel organizer is helping overall—good adherence. Resume creatine tomorrow morning.
+
+***
+
+## Week 3: QBR With Neel, Strategy Tightening, Holiday Social Calendar
+
+[2025-12-16 07:19 SGT] Ruby (back to SGT): Welcome back. QBR with Neel on Dec 18, 6:30 PM SGT. I’ll circulate an executive pre-read tomorrow.
+
+[2025-12-17 08:30 SGT] Ruby: QBR Pre-Read (Executive):
+- Risk reduction: ApoB improved but above target for Lp(a); hs-CRP trending down; BP home averages stable.
+- Performance: Sleep avg 6h35m; HRV stable at home, dips on travel; Zone 2 consistent, strength variable in travel weeks.
+- Experiments: 12:12 TRE tolerated; caffeine cut-off effective; creatine added; psyllium initiated.
+- Constraints: Frequent late dinners, time zones, December social load.
+- Plan: Maintain lifestyle intensification through Jan; re-evaluate pharmacotherapy in Feb depending on ApoB.
+
+[2025-12-18 18:30 SGT] Neel (Concierge Lead): Rohan, great to connect. At a high level:
+- Direction is right—metabolic and inflammation trends improving.
+- With Lp(a) genetic risk, we’re buying long-term insurance by driving ApoB down. We’ll do everything possible lifestyle-wise for the next 6–8 weeks.
+- The program’s value is in removing friction despite travel/holidays. Expect us to keep practical, low-burden adjustments.
+Success this quarter looks like: adherence ≥60% on non-travel weeks, 50%+ on travel weeks; earlier dinners 3 nights/week; 3 Zone 2 sessions most weeks; and consistent supplements.
+
+[2025-12-18 18:44 SGT] Rohan: Appreciate the framing. Let’s keep it simple and executable.
+
+[2025-12-18 18:50 SGT] Dr. Warren (Medical Strategist): Echoing Neel—if ApoB remains above target in February, we’ll discuss low-dose statin or alternatives, balancing your preferences and risk profile.
+
+[2025-12-18 18:58 SGT] Carla: Holiday-specific tweaks effective Dec 20–Jan 2:
+- If late dinner unavoidable: halve carbs, add sparkling water, skip nightcap.
+- If dessert is social: share; 2–3 mindful bites.
+- Morning after: protein-forward breakfast and 20–30 minutes Zone 2.
+
+[2025-12-18 19:06 SGT] Rachel: December training guardrails:
+- Minimum 3 sessions/week total activity: any combination of 10-minute minimums, Zone 2, or strength.
+- On tight days: 10-minute minimum + 10-minute brisk walk after dinner.
+
+[2025-12-19 08:55 SGT] Advik: If HRV dips after late nights, keep intensity low next day and favor outdoor light + walking. Rebound usually within 24–48 hours.
+
+***
+
+## Week 4: Holiday Socials, Adherence Dips, Tactical Course-Correct
+
+[2025-12-22 07:02 SGT] Ruby: Holiday week schedule posted. Reminders will be lighter, focused on minimums and Zone 2 opportunities.
+
+[2025-12-22 07:09 SGT] Rohan: Thanks—lots of family events this week. Expect 50% adherence.
+
+[2025-12-22 07:15 SGT] Carla: Family meal swaps:
+- Add a salad bowl and lean protein to the table.
+- Portion once, avoid grazing.
+- Herbal tea ritual for the household post-dinner.
+
+[2025-12-23 21:40 SGT] Rohan: Big dinner. Skipped alcohol. HRV probably tanks.
+
+[2025-12-23 21:46 SGT] Advik: Good call on alcohol. Do a 10-minute breathwork wind-down, cool shower, and sleep in a darker room tonight if possible.
+
+[2025-12-24 08:18 SGT] Rachel: If time permits, 15-minute hotel/house circuit:
+- 2 rounds: 10 push-ups (incline if needed), 12 squats, 10 hip bridge each side, 20s side planks. Finish with 5 minutes nasal-breathing walk.
+
+[2025-12-25 09:12 SGT] Rohan: Merry Christmas, team. I’ll do a Zone 2 this afternoon.
+
+[2025-12-25 09:18 SGT] Ruby: Merry Christmas! Enjoy the day. I’ll keep reminders minimal.
+
+[2025-12-26 07:33 SGT] Ruby: Friday micro-report:
+- Adherence: ~45% so far this week; mitigated with minimums and one Zone 2.
+- Sleep: Late evenings; HRV modestly down.
+- Nutrition: Alcohol intake minimal; dessert shared—nice.
+- Focus next 3 days: One Zone 2 + one minimum circuit each day.
+
+[2025-12-27 18:50 SGT] Rohan: Question—does psyllium timing matter on party days?
+
+[2025-12-27 18:57 SGT] Carla: Prefer with lunch daily; if a heavy dinner is expected, an extra 1/2 tsp with water 30–45 minutes before can help satiety (only if GI tolerance is good).
+
+[2025-12-28 08:05 SGT] Rohan: Did 40 minutes Zone 2. Felt solid.
+
+[2025-12-28 08:12 SGT] Rachel: Great. Keep tomorrow light mobility and a 10-minute minimum if short on time.
+
+[2025-12-29 07:45 SGT] Ruby: Month-end admin—confirming no further travel until Jan 5. I’ll share the December summary and January plan tomorrow.
+
+[2025-12-30 07:58 SGT] Advik: HRV rebounding; resting HR normalizing. Maintain 2 PM caffeine cut-off; expect better sleep efficiency tonight.
+
+[2025-12-31 08:20 SGT] Ruby: Month 4 Summary (Executive):
+- Adherence: ~50% overall (holiday load and Jakarta travel). Zone 2 consistency decent; strength dipped but buffered by 10-minute minimums.
+- Sleep: Avg 6h25m; later dinners common; HRV dipped during social week and rebounded post-Christmas.
+- Lipid strategy: Lifestyle intensification ongoing—oily fish 3x/week, psyllium daily, alcohol capped; creatine maintained most days; travel organizer reduced misses.
+- BP: Home spot-checks stable; travel and late nights elevate slightly.
+- MSK: Knee stable; strength progressed cautiously with pain-free ROM.
+- Cognitive focus: Midday daylight, breathwork over caffeine in PM, improved subjective afternoon focus on non-travel days.
+Actions for January (Month 5):
+1) Training: Target 2 strength + 2–3 Zone 2; if travel, maintain 2 minimums + 2 Zone 2.
+2) Nutrition: Maintain protein breakfast, 30g fiber/day with psyllium; keep oily fish 3x/week; holiday habits taper.
+3) Sleep: 2 PM caffeine cut-off; 10-minute wind-down; aim 7h on home weeks.
+4) Labs: Next full diagnostic in February—Ruby to pencil week of Feb 10.
+Key Dates:
+- Exercise refresh: Jan 13.
+- US trip tentatively late Jan per Sarah—awaiting confirmation.
+
+[2025-12-31 08:28 SGT] Rohan: Thanks all—good balance this month. Let’s push hard in January.
+
+[2025-12-31 08:35 SGT] Dr. Warren: Agreed. January is our runway to make a strong case on ApoB before February’s panel.
+
+[2025-12-31 09:00 SGT] Neel: Nice work navigating constraints without losing momentum, Rohan. We’ll keep the system low-friction and targeted on what moves the needle.
+
+[2025-12-31 21:12 SGT] Ruby: Happy New Year’s Eve to you and family. I’ll keep notifications muted tonight—back on Jan 2 with a crisp plan.
+
+# Month 5: January 2026 — Elyx x Rohan Conversation Log
+
+Note: All timestamps are local to the sender unless noted. Rohan’s home base is Singapore (SGT, UTC+8). This month focuses on a post-holiday reset, adherence push before February labs, and a late-month Jakarta trip. Exercise refresh mid-month. Member-initiated queries maintained (avg ~5/week).
+
+***
+
+## Week 1: New Year Reset, Adherence Ramp, Scheduling
+
+[2026-01-02 07:05 SGT] Ruby (Concierge): Happy New Year, Rohan. January plan is live. Goals: tighten adherence (≥60% home weeks), maintain minimums during travel, and prep for February full diagnostics. Tentative travel: Jakarta Jan 22–26—please confirm with Sarah.
+
+[2026-01-02 07:12 SGT] Sarah (PA): Confirming Jakarta Jan 22–26. Meetings mostly afternoon/evening. Hotel has a basic gym.
+
+[2026-01-02 07:18 SGT] Rohan: Thanks—let’s push hard this month.
+
+[2026-01-02 09:40 SGT] Carla (Nutritionist): January nutrition reset:
+- Breakfast: 30–40g protein daily (yogurt bowl or veggie omelet).
+- Lunch/Dinner: Plate method; add 1 tbsp EVOO to lunch or dinner.
+- Fiber: ≥30g/day with psyllium 1 tsp at lunch.
+- Alcohol: 0–2 drinks/week, not within 3h of bed.
+- Oily fish: 3x/week; chef rotation continues.
+
+[2026-01-02 18:22 SGT] Advik (Performance Scientist): Sleep & HRV reset:
+- Keep 2 PM caffeine cut-off.
+- 10-min wind-down nightly + dim screens.
+- Morning light 10–15 min within 90 min of waking.
+- Track: 7-day rolling HRV; aim for stability or a gentle rise.
+
+[2026-01-03 08:11 SGT] Rachel (Physiotherapist): Any knee feedback after the holidays?
+
+[2026-01-03 08:17 SGT] Rohan: Knee’s fine. Hips felt tight after flights; better now.
+
+[2026-01-03 08:24 SGT] Rachel: Add 90/90 hip flow + couch stretch 8–10 min nightly this week. Strength sessions on Mon/Thu, Zone 2 Tue/Sat.
+
+[2026-01-04 09:05 SGT] Ruby: Week 1 cadence reminder: Monday check-in, Friday micro-report. Exercise refresh scheduled Jan 13, 6:15 PM SGT.
+
+[2026-01-04 19:42 SGT] Rohan: Quick question—does cutting carbs at dinner help ApoB or just weight?
+
+[2026-01-04 19:49 SGT] Dr. Warren (Medical Strategist): ApoB reduction is more sensitive to overall saturated fat quality, fiber intake, weight loss (if applicable), and total LDL particle production rather than dinner carb timing alone. Your current focus on fiber, omega-3s, and overall dietary pattern will support ApoB. Carb timing can help sleep and glycemic control.
+
+***
+
+## Week 2: Consistency Block, Cognitive Support, Experiment Tuning
+
+[2026-01-06 07:00 SGT] Ruby: This week’s focus: 2 strength + 2 Zone 2 minimum, 1 optional intervals if sleep ≥6h45m. I’ve muted late-night reminders due to your evening calls.
+
+[2026-01-06 07:06 SGT] Rohan: Good. I’ll aim for Zone 2 today.
+
+[2026-01-06 18:10 SGT] Advik: Seeing improved sleep efficiency on nights with earlier dinners and breathwork. Maintain caffeine cut-off; HRV trending slightly up vs late December.
+
+[2026-01-07 07:52 SGT] Rohan: Reading about beetroot juice for cardio performance. Worth trying for Zone 2 or intervals?
+
+[2026-01-07 07:59 SGT] Carla: It can support nitric oxide pathways; mostly helps higher-intensity work. Safe to try 250–500ml 2–3h pre-intervals 1–2x/week. We’ll monitor GI tolerance.
+
+[2026-01-08 18:25 SGT] Rachel: Any discomfort with RDLs or step-ups?
+
+[2026-01-08 18:31 SGT] Rohan: No pain. Step-ups feel strong. Ready to progress cautiously.
+
+[2026-01-09 08:20 SGT] Ruby: Friday micro-report:
+- Adherence: 2 strength, 1 Zone 2 so far; one more Zone 2 planned this weekend.
+- Sleep: Avg 6h45m; best nights on earlier dinners.
+- Nutrition: Fiber target improving; oily fish 2x already.
+- Action: Add one intervals session if Sunday sleep ≥6h45m.
+
+[2026-01-09 08:27 SGT] Rohan: Copy. Will try intervals Sunday morning if sleep cooperates.
+
+[2026-01-10 20:55 SGT] Rohan: Question—can I stack creatine with beetroot on interval days?
+
+[2026-01-10 21:01 SGT] Carla: Yes—no known negative interaction. Take creatine in the morning; beetroot juice 2–3h pre-intervals. Hydrate well.
+
+***
+
+## Week 3: Exercise Refresh, Jakarta Travel Prep, BP Spot-Checks
+
+[2026-01-13 18:15 SGT] Rachel (Refresh Weeks 19–20): Updated plan:
+- Strength A: Goblet squat to box (progress ROM as tolerated), single-arm DB row, RDL (moderate), side plank with reach.
+- Strength B: Step-up (slightly higher box if pain-free), incline push-up 3-1-3 tempo, hip bridge march, bird dog with long exhale.
+- Conditioning: Zone 2 x2–3 (40 min), Intervals 1x/week (6x45s incline/hill, full recovery).
+- Accessory: Suitcase carry 3x40–60m on A days.
+- Mobility: Couch stretch + thoracic rotation + 90/90, 8–10 min nightly.
+Hotel-friendly variants included.
+
+[2026-01-13 18:23 SGT] Rohan: Perfect for travel. Will be in Jakarta Jan 22–26.
+
+[2026-01-14 07:03 SGT] Ruby: I’ll shift reminders to WIB during the trip and preload hotel workouts. Also setting a gentle step goal: 8,000/day on high-meeting days.
+
+[2026-01-14 07:10 SGT] Dr. Warren: BP spot-check protocol this week and next: 2 mornings/week, seated after 5 minutes rest, no caffeine 30 minutes prior. Share averages with Ruby.
+
+[2026-01-15 12:18 SGT] Rohan: BP this morning 124/78; last week was 126/80. Feels stable.
+
+[2026-01-15 12:25 SGT] Dr. Warren: Good trend. Maintain sodium awareness during client dinners; hydration and sleep remain key levers.
+
+[2026-01-16 08:35 SGT] Ruby: Friday micro-report:
+- Training: 1 strength, 1 Zone 2; plan for strength + Zone 2 this weekend.
+- Sleep: Avg 6h50m—up slightly.
+- Nutrition: Creatine and omega-3 adherence 6/7 days; psyllium daily most days.
+- Travel: Jakarta checklist to your email/WhatsApp tomorrow (supp sachets, bands, snack kit).
+
+[2026-01-16 08:42 SGT] Rohan: Great. I’ll aim for 2 sessions this weekend.
+
+[2026-01-17 19:22 SGT] Rohan: Science question—does sauna raise BP acutely?
+
+[2026-01-17 19:28 SGT] Dr. Warren: In the sauna, heart rate and skin blood flow increase; BP can initially rise slightly then often decreases post-session due to vasodilation. Keep sessions moderate (10–15 min), avoid if dehydrated, and allow cool-down. Not right before bed.
+
+***
+
+## Week 4: Jakarta Business Trip (WIB), Adherence at ~50%, Tactical Minimums
+
+[2026-01-22 08:10 WIB] Rohan (Jakarta): Landed. Meetings stacked this afternoon and evening. Gym has DBs and treadmills.
+
+[2026-01-22 08:16 WIB] Ruby (timezone shifted): Welcome to Jakarta. I’ll schedule Zone 2 early mornings Fri/Sun and a minimum strength circuit tonight if dinner runs late.
+
+[2026-01-22 09:00 WIB] Carla: Jakarta meal swaps reminder:
+- Protein + veg first, sauces on side.
+- Rice: full at lunch, half or skip at dinner.
+- Skip sweet tea/coffee drinks; choose plain coffee or sparkling water.
+
+[2026-01-22 22:05 WIB] Rohan: Late dinner. Doing the 10-minute minimum now.
+
+[2026-01-22 22:10 WIB] Rachel: Minimum set:
+- 2 rounds: 10 incline push-ups, 12 squats to chair, 20s side planks/side, 6x 90/90 transitions. Optional 5-min easy walk in hallway if safe.
+
+[2026-01-23 06:36 WIB] Rohan: Zone 2 35 minutes on treadmill. HR a bit higher than home.
+
+[2026-01-23 06:42 WIB] Advik: Travel HR drift is expected. Keep nasal-breathing pace, hydrate, and get morning light.
+
+[2026-01-23 19:38 WIB] Rohan: Skipped creatine today; took omega-3.
+
+[2026-01-23 19:44 WIB] Carla: Noted—resume creatine in the morning. Travel organizer seems to be reducing misses overall—good trend.
+
+[2026-01-24 07:58 WIB] Rohan: Sleep 5h50m; HRV dipped.
+
+[2026-01-24 08:04 WIB] Advik: Keep intensity low today. Try a 20–25 min easy walk outdoors + breathwork tonight. Expect HRV rebound in 24–48h.
+
+[2026-01-25 08:20 WIB] Rohan: Managed Zone 2 again. Dinner was late but lighter.
+
+[2026-01-25 08:27 WIB] Carla: Great—protein + veg first and sparkling water pre-meal remains the move.
+
+[2026-01-26 22:15 SGT] Ruby (back to SGT): Welcome home. I’ll consolidate Month 5 summary tomorrow and pencil your February full diagnostic (week of Feb 10). Preferences for days?
+
+[2026-01-26 22:21 SGT] Rohan: Tue or Wed mornings best.
+
+***
+
+## Month-End Consolidation: Summary, February Diagnostics Setup
+
+[2026-01-27 07:45 SGT] Ruby: Full diagnostic panel held for Wed Feb 11, 7:30 AM SGT at Orchard clinic (fasting from 10 PM prior). Post-lab review with Dr. Warren on Fri Feb 13, 6:30 PM SGT. I’ll share prep notes next week.
+
+[2026-01-27 07:52 SGT] Rohan: Book it. Thanks.
+
+[2026-01-28 08:10 SGT] Advik: Post-travel read: HRV is rebounding; resting HR elevated ~2 bpm vs pre-trip—normal. Keep Zone 2 today and an earlier dinner target.
+
+[2026-01-28 12:05 SGT] Rachel: Any joint niggles after travel?
+
+[2026-01-28 12:12 SGT] Rohan: All good. Step-ups still feel stable.
+
+[2026-01-29 09:00 SGT] Carla: Chef rotation for Feb to support ApoB push:
+- Sardines on whole-grain toast 1x/week.
+- Lentil/bean dinner 1x/week.
+- Salmon bowl 2x/week.
+- Psyllium at lunch daily.
+
+[2026-01-30 08:20 SGT] Ruby: Month 5 Summary (Executive):
+- Adherence: ~60% home weeks; ~50% during Jakarta trip with effective use of minimums and Zone 2.
+- Sleep: Avg 6h45m home; 5h50–6h on travel; HRV dips on trips and normalizes within 2–3 days post-return.
+- BP: Spot-checks stable (mid-normal); sodium awareness maintained. No concerning values reported.
+- Lipid strategy: Continued omega-3, higher fiber with psyllium, oily fish 3x/week, alcohol minimal; chef rotation optimized for February.
+- Training: Strength progressed with pain-free ROM; Zone 2 consistent; intervals added when sleep adequate.
+- Cognitive focus: Afternoon caffeine avoided; breathwork and daylight improved subjective focus.
+- Supplements: Creatine/omega-3 adherence strong at home; occasional misses on travel mitigated by organizer.
+Actions for February (Month 6):
+1) Maintain 2 strength + 2–3 Zone 2 weekly; 1 intervals if recovered.
+2) Keep 2 PM caffeine cut-off; 10-min wind-down; morning light daily when home.
+3) Nutrition: Maintain protein breakfast, fiber ≥30g/day, oily fish 3x/week, legume dinner weekly; alcohol ≤2/week.
+4) Labs: Full diagnostic Feb 11; review Feb 13. Decision point on pharmacotherapy pending ApoB trajectory and overall risk.
+Key Dates:
+- Exercise refresh: Feb 10 (light session due to labs next morning).
+- Full diagnostics: Feb 11 (fasting).
+- Dr. Warren review: Feb 13.
+
+[2026-01-30 08:28 SGT] Rohan: Great—clear and executable. Let’s hit February hard.
+
+[2026-01-30 08:35 SGT] Dr. Warren: Agreed. February labs will guide whether lifestyle alone is sufficient or if we add a low-dose statin to address ApoB given Lp(a).
+
+[2026-01-31 09:02 SGT] Neel (Concierge Lead): Strong January, Rohan—momentum is on your side. We’ll keep the friction low and focus on compounding simple wins ahead of the lab checkpoint.
+
+[2026-01-31 09:20 SGT] Ruby: Closing Month 5. I’ll send lab prep notes on Feb 9 and coordinate anything needed via Sarah.
+
+# Month 6: February 2026 — Elyx x Rohan Conversation Log
+
+Note: All timestamps are local to the sender unless noted. Rohan’s home base is Singapore (SGT, UTC+8). This month includes the second full diagnostic panel and a clinical decision point on ApoB strategy. Exercise refresh placed before labs with a light session.
+
+***
+
+## Week 1: Lab Prep, Light Taper, Logistics
+
+[2026-02-01 07:05 SGT] Ruby (Concierge): Happy February, Rohan. This month: exercise refresh on Feb 10 (light), full diagnostics Feb 11 (7:30 AM, Orchard clinic; fasting from 10 PM Feb 10), Dr. Warren review Feb 13 (6:30 PM). I’ll send lab prep notes on Feb 9.
+
+[2026-02-01 07:12 SGT] Rohan: Thanks, Ruby. Let’s keep the week clean ahead of labs.
+
+[2026-02-01 08:30 SGT] Advik (Performance Scientist): Suggest a 15–20% volume reduction Feb 8–12 to get a clean recovery read. Keep two Zone 2 sessions and one strength early in the week.
+
+[2026-02-01 18:10 SGT] Carla (Nutritionist): Pre-lab nutrition: maintain your standard meals, fiber, and omega-3; avoid alcohol Feb 9–10; keep dinner earlier on Feb 10 if possible.
+
+[2026-02-02 07:20 SGT] Rachel (Physiotherapist): Any knee or hip feedback after January travel?
+
+[2026-02-02 07:26 SGT] Rohan: Knee stable. No pain >2/10. Hips feel fine with nightly mobility.
+
+[2026-02-03 09:42 SGT] Ruby: Travel this month? Any APAC/US trips we should account for?
+
+[2026-02-03 09:50 SGT] Sarah (PA): Light month—possible UK trip last week Feb 24–28; TBC by Feb 15.
+
+[2026-02-04 07:03 SGT] Rohan: Quick Q—should I pause creatine before labs?
+
+[2026-02-04 07:10 SGT] Dr. Warren (Medical Strategist): No need to pause creatine for standard panels. Continue as normal. Focus on sleep and hydration.
+
+[2026-02-05 08:12 SGT] Ruby: Friday micro-report:
+- Adherence: 2 strength, 1 Zone 2 so far; plan for one more Zone 2 this weekend.
+- Sleep: Avg 6h50m; earlier dinners correlate with better HRV.
+- Logistics: Lab prep note scheduled for Feb 9.
+
+***
+
+## Week 2: Exercise Refresh, Full Diagnostics, Post-Lab Recovery
+
+[2026-02-09 07:15 SGT] Ruby: Lab prep for Feb 11:
+- Fasting from 10 PM on Feb 10.
+- Hydrate well Feb 9–10.
+- No alcohol Feb 9–10.
+- Keep Feb 10 training very light (mobility + easy walk).
+- Bring a protein snack for after the draw.
+Dr. Warren review set for Feb 13, 6:30 PM SGT.
+
+[2026-02-09 07:22 SGT] Rohan: All good.
+
+[2026-02-10 18:15 SGT] Rachel (Refresh & Light Day): Updated plan template (Weeks 21–22):
+- Strength A: Goblet squat to box (progress ROM if pain-free), single-arm row, RDL moderate, side plank with reach.
+- Strength B: Step-up (low-to-moderate box), incline push-up 3-1-3, hip bridge march, bird dog with long exhale.
+- Conditioning: Zone 2 x2–3 (40 min), Intervals x1 (6x45s, full recovery) on weeks without travel or lab draws.
+- Accessory: Suitcase carry 3x40–60m on A days.
+- Mobility nightly: couch stretch, thoracic rotations, 90/90, 8–10 min.
+Today: Only mobility + 20 min easy walk.
+
+[2026-02-10 21:05 SGT] Rohan: Last meal 7:30 PM, water only after. Light mobility done.
+
+[2026-02-11 07:26 SGT] Ruby: Good morning—clinic is ready for you. Text if anything needed.
+
+[2026-02-11 09:02 SGT] Rohan: Labs done. Back to office.
+
+[2026-02-11 09:08 SGT] Ruby: Results in 48–72 hours. Review this Friday as scheduled.
+
+[2026-02-11 18:40 SGT] Advik: Keep training easy to moderate next 24–48h. Aim for an early dinner and a 10-minute wind-down tonight for good recovery.
+
+***
+
+## Week 3: Lab Results Review, Decision Point on ApoB Strategy
+
+[2026-02-13 18:30 SGT] Dr. Warren (Medical Strategist): Thanks for joining, Rohan. Here’s the 6-month read:
+- Lipids: ApoB improved further versus November but remains slightly above our target given your Lp(a); LDL-C down from baseline; triglycerides stable and acceptable.
+- Inflammation: hs-CRP shows continued downward trend—good signal.
+- BP: Home averages mid-normal; clinic reading normal.
+- Glycemic: Fasting stable; OGTT with insulin shows further improvement—early insulin resistance features continue to soften.
+- Omega-3 index: In the optimal-moderate zone; maintain current intake.
+- Heavy metals: Mercury stable and acceptable; continue variety in seafood.
+- Biological age: Another small improvement of ~0.2 years vs November.
+Interpretation: Lifestyle intensification yielded meaningful progress; however, ApoB still sits above the optimal range for your genetic Lp(a) risk. To reduce long-term cardiovascular risk, I recommend adding a low-dose statin while continuing lifestyle strategies. We will monitor for tolerance and efficacy; alternatives exist if intolerance occurs.
+
+[2026-02-13 18:48 SGT] Rohan: Understood. If we start low-dose statin, what does monitoring look like?
+
+[2026-02-13 18:55 SGT] Dr. Warren: We’ll check repeat lipids, ApoB, and liver enzymes at 6–8 weeks to confirm response and tolerance, then roll into your next quarterly panel in May. Report any muscle symptoms or unusual fatigue; we can adjust dose or switch agents if needed.
+
+[2026-02-13 19:05 SGT] Carla (Nutritionist): No change to nutrition fundamentals: 30–40g protein breakfast, oily fish 3x/week, ≥30g fiber with psyllium at lunch, and alcohol ≤2/week. Maintain chef rotations and late-dinner strategies during travel.
+
+[2026-02-13 19:12 SGT] Rohan: Fine with that. Let’s proceed.
+
+[2026-02-13 19:18 SGT] Ruby (Concierge): I’ll coordinate prescription and delivery to your home by Tuesday, and set calendar reminders for morning dosing. Sarah looped for any travel overlaps.
+
+[2026-02-14 08:22 SGT] Advik: With statin initiation, keep a steady training load this week—2 Zone 2 + 2 strength—and watch for any unusual soreness. HRV trends should remain stable.
+
+[2026-02-14 09:05 SGT] Rachel (Physiotherapist): If you notice muscle soreness beyond your baseline after starting medication, flag it. We can modulate volume/intensity while Dr. Warren assesses.
+
+***
+
+## Week 4: UK Trip Tentative, Medication Start, Adherence Tactics
+
+[2026-02-17 07:30 SGT] Ruby: Medication delivery confirmed for today 5–7 PM. Dosing reminder set for 8:00 AM daily starting tomorrow. I’ve also scheduled a quick tolerance check-in call next week.
+
+[2026-02-17 07:36 SGT] Rohan: Received. Will start tomorrow morning.
+
+[2026-02-18 08:06 SGT] Rohan: First dose taken. Normal day planned—Zone 2 this evening.
+
+[2026-02-18 08:12 SGT] Advik: Sounds good. Keep it easy-moderate tonight; aim for an earlier dinner to support sleep.
+
+[2026-02-19 12:05 SGT] Sarah (PA): UK trip confirmed Feb 24–28 (London). Hotels with basic gyms booked.
+
+[2026-02-19 12:12 SGT] Ruby: I’ll time-shift reminders to GMT and preload hotel workouts. Flight-day protocol and sauna guidelines will be sent on Feb 23.
+
+[2026-02-20 08:18 SGT] Carla: UK food strategy:
+- Breakfast: Eggs + smoked salmon + tomatoes; yogurt + nuts as backup.
+- Lunch: Protein + veg; skip fries; sparkling water pre-meal.
+- Dinner after 9 PM: halve carbs, protein-forward, and avoid nightcaps.
+- Supplements: Organizer packed; keep omega-3 + statin schedule consistent.
+
+[2026-02-21 09:40 SGT] Rachel: Quick knee/hip check before travel?
+
+[2026-02-21 09:46 SGT] Rohan: All good. Step-ups still comfortable.
+
+[2026-02-22 08:00 SGT] Advik: Travel HRV plan:
+- Flight day: daylight walk before flight; hydrate; aisle stretches every 90 minutes.
+- On arrival: 20–30 min daylight walk; 2 PM local caffeine cut-off; wind-down 10–12 minutes at night.
+
+[2026-02-23 07:55 SGT] Ruby: Travel checklist sent (bands, sachets, electrolytes, statin reminders synced to local time). I’ll switch reminder timezone as you board.
+
+***
+
+## UK Business Trip (GMT), Adherence ~50–60%, Medication Continuity
+
+[2026-02-24 08:12 GMT] Rohan (London): Landed. Will do a 20-minute walk before meetings.
+
+[2026-02-24 08:18 GMT] Ruby: Reminders now on GMT. Hotel gym verified. I’ve scheduled Zone 2 early mornings and a 10-minute minimum set for late nights.
+
+[2026-02-24 21:40 GMT] Rohan: Dinner ran late. Doing the minimum now.
+
+[2026-02-24 21:46 GMT] Rachel: Minimum set:
+- 2 rounds: 10 incline push-ups, 12 squats to chair, 20s side planks/side, 6x 90/90 transitions. Optional 5-min easy treadmill walk.
+
+[2026-02-25 06:35 GMT] Rohan: Slept 5h50m. Zone 2 or rest?
+
+[2026-02-25 06:41 GMT] Advik: Keep Zone 2 but cap at RPE 4/10 for 30–35 minutes. Get daylight later in the morning between meetings.
+
+[2026-02-26 07:58 GMT] Rohan: Supplements on track including statin. No soreness so far.
+
+[2026-02-26 08:04 GMT] Carla: Excellent. Keep hydration high and maintain protein at breakfast to reduce late-day cravings.
+
+[2026-02-27 19:22 GMT] Rohan: Final dinner tonight. Will keep carbs light.
+
+[2026-02-27 19:29 GMT] Carla: Perfect—protein + veg first, sauces on side, and sparkling water pre-meal.
+
+***
+
+## Month-End Consolidation: Tolerance Check, Next Steps, May Diagnostics
+
+[2026-02-28 09:10 SGT] Ruby (back to SGT): Welcome home, Rohan. Quick tolerance check: any muscle pain or unusual fatigue since starting the statin?
+
+[2026-02-28 09:16 SGT] Rohan: No issues so far. Energy good.
+
+[2026-02-28 09:24 SGT] Dr. Warren: Great. We’ll plan a focused lipid/ApoB + liver enzymes check in late March to confirm response, then roll into the next full panel in May.
+
+[2026-02-28 09:40 SGT] Ruby: Month 6 Summary (Executive):
+- Adherence: ~60% home weeks; 50–60% during UK trip with strong use of minimums and Zone 2.
+- Sleep: Avg 6h50m at home; ~5h50–6h on travel; HRV dips on trips, rebounds within 2–3 days.
+- Lipid strategy: Lifestyle improvements continued; statin initiated mid-month with good tolerance; focused check planned late March.
+- BP: Home averages mid-normal; clinic normal.
+- Metabolic: OGTT/insulin pattern continues improving; TRE 12:12 well-tolerated.
+- MSK: Knee/hip stable; strength maintains pain-free ROM; intervals used on well-rested weeks.
+Actions for March (Month 7):
+1) Maintain 2 strength + 2–3 Zone 2; 1 intervals if recovered.
+2) Keep statin dosing at 8:00 AM with organizer; report any new muscle symptoms immediately.
+3) Nutrition: Maintain protein breakfast, fiber ≥30g/day with psyllium, oily fish 3x/week; alcohol ≤2/week.
+4) Sleep & cognition: 2 PM caffeine cut-off; nightly wind-down; morning light exposure routine.
+Key Dates:
+- Focused lipid/ApoB + LFT check: week of Mar 24 (fasting morning).
+- Exercise refresh: Mar 10.
+- Next full diagnostic panel: May (Month 8).
+
+[2026-02-28 09:48 SGT] Rohan: Excellent. Let’s keep the momentum and see how ApoB responds in March.
+
+[2026-02-28 09:55 SGT] Neel (Concierge Lead): Strong month—decisive step on long-term risk while preserving your lifestyle rhythm. We’ll stay proactive and low-friction into March.
+
+# Month 7: March 2026 — Elyx x Rohan Conversation Log
+
+Note: All timestamps are local to the sender unless noted. Rohan’s home base is Singapore (SGT, UTC+8). This month includes an exercise refresh, cognitive/sleep focus, and a focused lipid/ApoB + LFT check late month to evaluate statin response. One business trip planned (Seoul).
+
+***
+
+## Week 1: Cognitive Focus Block, Routine Stabilization, Scheduling
+
+[2026-03-01 07:05 SGT] Ruby (Concierge): Good morning, Rohan. March plan is live. Key dates: Exercise refresh Mar 10 (6:15 PM SGT). Focused lipid/ApoB + LFT check Mar 26 (7:30 AM, Orchard clinic; fasting). Tentative Seoul trip Mar 18–22—confirm with Sarah.
+
+[2026-03-01 07:12 SGT] Sarah (PA): Confirming Seoul Mar 18–22. Hotel gym available; meetings heavy evenings.
+
+[2026-03-01 07:18 SGT] Rohan: Thanks—let’s keep cognitive/energy solid this month.
+
+[2026-03-01 08:00 SGT] Advik (Performance Scientist): Cognition protocol (Weeks 1–2):
+- AM: 10–15 min outdoor light within 60–90 min of waking.
+- Midday: 8–10 min daylight walk; 90s box breathing pre-afternoon meetings.
+- PM: 2 PM caffeine cut-off; 10–12 min wind-down (nasal breathing + light stretch).
+- Track: 7-day HRV rolling average, sleep efficiency, and subjective focus rating (1–5) in app notes.
+
+[2026-03-01 18:25 SGT] Carla (Nutritionist): Fuel for focus:
+- Breakfast: 30–40g protein + fiber (yogurt bowl or omelet + greens).
+- Lunch: Plate method + 1 tbsp EVOO; add legumes 3x/week.
+- Hydration: 2.5–3.0L/day; electrolytes on hot days or interval days.
+- Alcohol: ≤2/week; none within 3h of bed.
+
+[2026-03-02 07:06 SGT] Rachel (Physiotherapist): Any knee/hip flags before we progress on Mar 10?
+
+[2026-03-02 07:12 SGT] Rohan: No pain >2/10. Step-ups feel strong. Hinge stable.
+
+[2026-03-02 07:18 SGT] Rachel: Great. Keep current plan this week: 2 strength (Mon/Thu), 2 Zone 2 (Tue/Sat). Intervals only if sleep ≥6h45m.
+
+[2026-03-03 20:42 SGT] Rohan: Garmin flagged low HRV last night after a late dinner. Keep Zone 2 or rest?
+
+[2026-03-03 20:49 SGT] Advik: Do easy Zone 2 tomorrow—RPE 4/10, 30–35 minutes. Early dinner tonight if possible; wind-down and cooler room temp.
+
+[2026-03-04 08:55 SGT] Ruby: Friday micro-report (pulled forward due to your Thursday travel call):
+- Training: On track—1 strength, 1 Zone 2 complete.
+- Sleep: Avg 6h50m; HRV dips with late dinners, rebounds in 24–48h.
+- Admin: Mar 10 refresh confirmed; Mar 26 labs booked; Seoul logistics in progress.
+
+***
+
+## Week 2: Exercise Refresh, Small Progressions, Travel Prep (Seoul)
+
+[2026-03-10 18:15 SGT] Rachel (Refresh Weeks 23–24): Updated plan:
+- Strength A: Goblet squat to box (progress ROM slightly if pain-free), single-arm DB row, RDL moderate, side plank with reach.
+- Strength B: Step-up (increase box height by 2–4cm if no pain), incline push-up 3-1-3, hip bridge march, bird dog with long exhale.
+- Conditioning: Zone 2 x2–3 (40 min); Intervals x1 weekly (6x45s incline, full recovery) if sleep adequate.
+- Accessory: Suitcase carry 3x50–60m on A days.
+- Mobility: Couch stretch, thoracic rotation, 90/90 nightly 8–10 minutes.
+Hotel variants included for next week.
+
+[2026-03-10 18:23 SGT] Rohan: Perfect timing for Seoul. Will need late-night minimums during dinners.
+
+[2026-03-11 07:02 SGT] Carla: Seoul dining swaps:
+- BBQ: lean cuts + lettuce wraps + banchan veggies; go light on sugary marinades.
+- Rice: full at lunch if needed, half or skip at dinner.
+- Snacks: nuts/jerky; avoid sweet coffee drinks; choose Americano/long black.
+
+[2026-03-11 07:10 SGT] Ruby: Travel pack prepped: supplement organizer, protein sachets, bands, electrolytes. Reminders will shift to KST. I’ll preload hotel workouts and step-goal nudges (8,000/day).
+
+[2026-03-12 18:40 SGT] Rohan: Quick question—any interaction between statin and beetroot juice on intervals?
+
+[2026-03-12 18:47 SGT] Dr. Warren (Medical Strategist): No known clinically significant interaction. Maintain hydration; report any unusual muscle soreness. Intervals only on well-rested days while traveling.
+
+[2026-03-13 08:25 SGT] Ruby: Friday micro-report:
+- Adherence: 2 strength, 1 Zone 2 so far; one more Zone 2 planned this weekend.
+- Sleep: Avg 6h52m; best nights with earlier dinners and wind-down.
+- Supplements: Statin adherence steady; omega-3 and creatine strong.
+- Action: Keep intensity moderate before travel; prioritize recovery.
+
+***
+
+## Week 3: Seoul Business Trip (KST), Adherence ~50–60%, Tactical Minimums
+
+[2026-03-18 08:06 KST] Rohan (Seoul): Landed. Meetings front-loaded evenings. Gym has DBs and treadmills.
+
+[2026-03-18 08:12 KST] Ruby (timezone shifted): Welcome to Seoul. Morning Zone 2 scheduled Thu/Sat; late-night minimums preloaded if dinners run late.
+
+[2026-03-18 21:28 KST] Rohan: Dinner ended 10:15 PM. Minimum tonight?
+
+[2026-03-18 21:34 KST] Rachel: Minimum set:
+- 2 rounds: 10 incline push-ups, 12 squats to chair, 20s side planks/side, 6x 90/90 transitions. 5-min easy walk after if safe.
+
+[2026-03-19 06:40 KST] Rohan: Sleep 5h45m. Zone 2 or rest?
+
+[2026-03-19 06:46 KST] Advik: Keep Zone 2 easy—30–35 minutes at RPE 4/10, nasal breathing. Daylight walk between meetings.
+
+[2026-03-20 12:28 KST] Rohan: Missed creatine yesterday; omega-3 taken.
+
+[2026-03-20 12:34 KST] Carla: All good—resume creatine in the morning. Keep protein at breakfast to stabilize appetite.
+
+[2026-03-21 07:58 KST] Rohan: Did 40 minutes Zone 2; felt good. Late dinner again tonight likely.
+
+[2026-03-21 08:05 KST] Carla: Stick to protein + veg first, sauces on side, sparkling water before the meal, and skip nightcap to protect sleep.
+
+[2026-03-22 18:30 SGT] Ruby (back to SGT): Welcome home. I’ll push a light consolidation tomorrow and prep for Mar 26 labs.
+
+***
+
+## Week 4: Focused Lipid/ApoB + LFT Check, Recovery Emphasis
+
+[2026-03-24 07:12 SGT] Ruby: Lab prep for Thu Mar 26:
+- Fasting from 10 PM on Mar 25.
+- Hydrate well Mar 24–25; no alcohol Mar 24–25.
+- Keep Mar 25 training light (mobility + easy walk).
+- Bring protein snack for post-draw.
+
+[2026-03-24 07:18 SGT] Rohan: Acknowledged.
+
+[2026-03-25 21:05 SGT] Rohan: Last meal 7:40 PM. Light mobility done.
+
+[2026-03-26 07:26 SGT] Ruby: Good morning—clinic is ready. Ping me for anything.
+
+[2026-03-26 09:04 SGT] Rohan: Labs done. Back to work.
+
+[2026-03-26 09:10 SGT] Ruby: Results expected within 48–72 hours. I’ll schedule a short results call with Dr. Warren early next week.
+
+[2026-03-27 08:22 SGT] Advik: Keep training easy-moderate today; aim for earlier dinner and 10–12 min wind-down for good recovery.
+
+***
+
+## Month-End Consolidation: Results Update, Next Steps Toward Month 8 (Quarterly Panel)
+
+[2026-03-30 18:35 SGT] Dr. Warren (Medical Strategist): Quick update on your focused labs:
+- ApoB: Down meaningfully from February, now within our target range for your Lp(a) context.
+- Liver enzymes: Within acceptable limits—no signals of intolerance.
+Interpretation: Excellent response to low-dose statin alongside lifestyle measures. We’ll maintain the current course and reassess comprehensively at the May quarterly panel.
+
+[2026-03-30 18:46 SGT] Rohan: That’s great news. No side effects so far.
+
+[2026-03-30 18:52 SGT] Dr. Warren: Perfect. Continue current dosing and report any new symptoms promptly.
+
+[2026-03-31 08:15 SGT] Ruby: Month 7 Summary (Executive):
+- Adherence: ~60% at home; ~50–60% during Seoul with strong use of minimums and morning Zone 2.
+- Sleep & HRV: Avg 6h50m at home; ~5h45–6h on travel; HRV dips on trips, rebounds within 2–3 days. Wind-down and earlier dinners continue to help.
+- Lipids: Focused check shows ApoB now within target for Lp(a); liver enzymes acceptable—continue current statin dose.
+- BP: Home spot-checks mid-normal.
+- Metabolic: 12:12 TRE tolerated; energy and focus supported with daylight + breathwork.
+- MSK: Knee/hip stable; progressed box height slightly without pain >2/10.
+Actions for April (Month 8):
+1) Maintain 2 strength + 2–3 Zone 2; intervals x1 on well-rested weeks.
+2) Continue statin AM dosing; no changes.
+3) Nutrition: Protein at breakfast daily; fiber ≥30g with psyllium; oily fish 3x/week; alcohol ≤2/week.
+4) Sleep & cognition: Keep 2 PM caffeine cut-off; nightly wind-down; AM light.
+Key Dates:
+- Exercise refresh: Apr 14.
+- Quarterly full diagnostic panel (Month 8): Week of May 12—will book preferred morning slot at Orchard and align a full review with Dr. Warren.
+
+[2026-03-31 08:23 SGT] Rohan: Appreciate the tight execution this month—results speak for themselves.
+
+[2026-03-31 08:30 SGT] Neel (Concierge Lead): Excellent milestone, Rohan. The combination of targeted lifestyle upgrades and measured pharmacology is paying off. We’ll keep the system low-friction into April and prepare for the May deep-dive.
+
+
+# Month 8: April 2026 — Elyx x Rohan Conversation Log
+
+Note: All timestamps are local to the sender unless noted. Rohan’s home base is Singapore (SGT, UTC+8). This month focuses on consolidating gains after ApoB reached target in March, cognitive performance, and preparing logistics for May’s quarterly full diagnostic panel. One business trip planned (US).
+
+***
+
+## Week 1: Consolidation, Cognitive Performance, May Diagnostics Scheduling
+
+[2026-04-01 07:05 SGT] Ruby (Concierge): Good morning, Rohan. April plan is live. Key dates: Exercise refresh Apr 14 (6:15 PM SGT). I’m penciling your May quarterly full diagnostic for Wed May 13, 7:30 AM at Orchard (fasting), and Dr. Warren review Fri May 15, 6:30 PM—confirm?
+
+[2026-04-01 07:12 SGT] Rohan: Confirm both. Likely US trip Apr 21–28—New York then SF.
+
+[2026-04-01 07:18 SGT] Sarah (PA): Confirming travel windows. Hotels have basic gyms. Please share time-zone strategies and hotel-friendly plans by Apr 18.
+
+[2026-04-01 08:02 SGT] Advik (Performance Scientist): April cognition block:
+- AM: 10–15 minutes outdoor light within 60 minutes of waking.
+- Midday: 8–10-minute daylight walk; 90s box breathing before high-stakes calls.
+- PM: 2 PM caffeine cut-off; 10–12-minute wind-down with nasal breathing.
+- Track subjective focus (1–5) in app notes, plus sleep efficiency and HRV 7-day rolling average.
+
+[2026-04-01 18:20 SGT] Carla (Nutritionist): Fuel structure unchanged: 30–40g protein breakfast; fiber ≥30g/day with psyllium at lunch; oily fish 3x/week; alcohol ≤2/week and not within 3h of bed. I’ll send a US dining cheat sheet next week.
+
+[2026-04-02 07:06 SGT] Rachel (Physiotherapist): Knee/hip status check?
+
+[2026-04-02 07:12 SGT] Rohan: Stable. No pain >2/10. Step-ups feel strong.
+
+[2026-04-03 08:35 SGT] Ruby: Friday micro-report:
+- Adherence: 1 strength, 1 Zone 2 so far; on track for weekend sessions.
+- Sleep: Avg 6h50m; best nights on earlier dinners.
+- Admin: May diagnostic and review are held; travel logistics in progress.
+
+[2026-04-03 08:42 SGT] Rohan: Great—targeting 2 Zone 2 + 2 strength this week.
+
+***
+
+## Week 2: Exercise Refresh, US Travel Prep, Cognitive Micro-Tweaks
+
+[2026-04-08 19:05 SGT] Rohan: Quick question—does a 20–30-minute afternoon nap help cognition if sleep is <6h30m?
+
+[2026-04-08 19:12 SGT] Advik: Yes, if timed well. Keep naps 20–30 minutes before 3 PM; avoid if it disrupts nightly sleep. On travel, use them to buffer time-zone fatigue.
+
+[2026-04-09 07:55 SGT] Carla: If napping, have a light protein-forward lunch to avoid post-meal slumps; hydrate; no caffeine after 2 PM.
+
+[2026-04-10 08:10 SGT] Ruby: Friday micro-report:
+- Training: 2 strength logged; 1 Zone 2—another Zone 2 planned this weekend.
+- Sleep: Avg 6h48m; breathwork nights show better efficiency.
+- Travel: Cheat sheets and timezone protocol going out Apr 18. Reminders will auto-shift to ET/PT.
+
+[2026-04-12 09:28 SGT] Rohan: Considering adding Oura now for sleep depth and HRV—still helpful alongside Garmin?
+
+[2026-04-12 09:35 SGT] Advik: Yes—Oura adds granularity to sleep staging and nightly HRV. If you purchase, we’ll integrate and compare signals with Garmin for the next 4 weeks.
+
+[2026-04-14 18:15 SGT] Rachel (Refresh Weeks 25–26): Updated plan:
+- Strength A: Goblet squat to box (progress ROM if pain-free), single-arm DB row, RDL moderate, side plank with reach.
+- Strength B: Step-up (maintain current height; increase reps 1–2 if no pain), incline push-up 3-1-3, hip bridge march, bird dog with long exhale.
+- Conditioning: Zone 2 x2–3 (40 min); Intervals x1 (6x45s incline, full recovery) only on well-rested weeks.
+- Accessory: Suitcase carry 3x50–60m on A days.
+- Mobility: Couch stretch, thoracic rotation, 90/90 nightly 8–10 minutes.
+Hotel variants included for US.
+
+[2026-04-14 18:23 SGT] Rohan: Locked. US trip starts next week.
+
+[2026-04-15 07:04 SGT] Dr. Warren (Medical Strategist): Continue statin AM dosing; report any muscle symptoms. No changes clinically—ApoB on target in March; we’ll reconfirm in May.
+
+***
+
+## Week 3: US Business Trip (NYC → SF), Adherence 50–60%, Minimums + Zone 2
+
+[2026-04-21 19:58 EDT] Rohan (NYC): Landed. Short walk outside before dinner. Likely a late meal.
+
+[2026-04-21 20:05 EDT] Ruby (timezone shifted): Welcome to New York. Reminders now on ET. Late dinner strategy: halve carbs, protein-first, sparkling water before meal. 10-minute wind-down suggested.
+
+[2026-04-22 06:42 EDT] Rohan: Woke early. Gym has DBs and treadmills. Zone 2 or strength?
+
+[2026-04-22 06:48 EDT] Rachel: Zone 2 35–40 minutes to flush travel fatigue. Strength A tomorrow if sleep ≥6h30m.
+
+[2026-04-22 23:06 EDT] Rohan: Dinner ran late—doing minimum set.
+
+[2026-04-22 23:12 EDT] Rachel: Minimum:
+- 2 rounds: 10 incline push-ups, 12 squats to chair, 20s side planks/side, 6x 90/90 transitions. Optional 5-min easy treadmill walk.
+
+[2026-04-23 07:20 EDT] Rohan: HRV dipped. Keep Zone 2 today?
+
+[2026-04-23 07:27 EDT] Advik: Yes—keep at RPE 4/10 for 30–35 minutes. Morning daylight between meetings.
+
+[2026-04-24 09:10 EDT] Ruby: Transit to SF today; I’ll switch reminders to PT at hotel check-in. Hydrate; aisle stretches every 90 minutes.
+
+[2026-04-24 18:58 PDT] Rohan (SF): Checked in. Quick outdoor walk. Late client dinner expected.
+
+[2026-04-24 19:05 PDT] Carla: SF dining swaps: protein + veg first; sauces on side; if dessert is social, share and keep to 2–3 bites. No nightcap.
+
+[2026-04-25 08:05 PDT] Rohan: Managed 40 minutes Zone 2. Feeling okay.
+
+[2026-04-25 08:12 PDT] Rachel: Great. Optional: 2x suitcase carries if DBs available; otherwise, 10-minute brisk incline walk finisher.
+
+[2026-04-26 07:52 PDT] Rohan: Missed creatine yesterday; omega-3 and statin on track.
+
+[2026-04-26 07:58 PDT] Carla: Noted—resume creatine this morning. Travel organizer helping adherence overall.
+
+[2026-04-27 20:45 PDT] Rohan: Final dinner tonight. Will keep carbs light.
+
+[2026-04-27 20:52 PDT] Ruby: I’ll switch reminders back to SGT once you land. Nice consistency this trip.
+
+***
+
+## Week 4: Return to Singapore, May Diagnostics Finalization, Executive Summary
+
+[2026-04-29 08:50 SGT] Ruby (back to SGT): Welcome home. I’ll send your April summary and May diagnostics prep pack tomorrow. Any preferences for transport to Orchard on May 13 or do you prefer to self-arrange?
+
+[2026-04-29 08:56 SGT] Rohan: I’ll arrange my own transport.
+
+[2026-04-29 12:05 SGT] Advik: Post-travel read: HRV rebounding; resting HR +2–3 bpm above home baseline—typical. Keep Zone 2 today and earlier dinner for sleep efficiency.
+
+[2026-04-29 18:20 SGT] Rachel: Any knee/hip niggles after the trip?
+
+[2026-04-29 18:26 SGT] Rohan: All good. Step-ups still stable.
+
+[2026-04-30 08:10 SGT] Carla: Chef rotation confirmed for May:
+- Salmon bowl 2x/week; sardines on whole-grain 1x/week.
+- Legume-forward dinner 1x/week.
+- Psyllium at lunch daily.
+- Protein breakfast daily (yogurt bowl or omelet).
+
+[2026-04-30 08:30 SGT] Ruby: Month 8 Summary (Executive):
+- Adherence: ~55–60% overall; US trip at ~50–60% with consistent Zone 2 and minimum strength circuits.
+- Sleep & HRV: Avg ~6h50m at home; ~5h45–6h on travel. HRV dips on trips, rebounding within 2–3 days post-return. Breathwork + earlier dinners still effective.
+- Lipids: Statin well-tolerated; ApoB within target as of March focused check. Stay the course; comprehensive reassessment in May.
+- BP: Home spot-checks mid-normal; travel elevations mild and transient.
+- Metabolic: 12:12 TRE well-tolerated; energy stable; cognition supported by daylight, breathwork, and caffeine cut-off.
+- MSK: Knee/hip stable; strength progressing pain-free; intervals only on well-rested weeks.
+Actions for May (Quarterly Panel):
+1) Maintain 2 strength + 2–3 Zone 2; add 1 intervals session on weeks with ≥6h45m sleep.
+2) Continue statin AM dosing; report any new muscle symptoms immediately.
+3) Nutrition: Keep protein breakfast, fiber ≥30g/day with psyllium, oily fish 3x/week, alcohol ≤2/week.
+4) Sleep/cognition: AM light, 2 PM caffeine cut-off, nightly 10–12-minute wind-down.
+Key Dates:
+- Full diagnostic panel: Wed May 13, 7:30 AM SGT (fasting from 10 PM May 12).
+- Dr. Warren review: Fri May 15, 6:30 PM SGT.
+- Exercise refresh: May 12 will be light (mobility + easy walk) due to labs next morning.
+
+[2026-04-30 08:38 SGT] Rohan: Clear and tight—thanks. Let’s keep it steady into May.
+
+[2026-04-30 08:45 SGT] Neel (Concierge Lead): Excellent compound execution over these months, Rohan. The system is doing its job: reduce friction, protect long-term risk, and keep performance steady even with travel. We’ll be ready for the May deep-dive.

@@ -1,0 +1,52 @@
+{
+  "metrics": {
+    "team_utilization": {
+      "medical_strategist_hours": 4.5,
+      "physiotherapy_hours": 3.0,
+      "nutrition_hours": 3.5,
+      "concierge_hours": 6.0,
+      "performance_scientist_hours": 2.5
+    },
+    "communication_stats": {
+      "total_messages": 416,
+      "member_initiated_per_week": 5,
+      "team_initiated_per_week": 12,
+      "role_distribution": {
+        "Concierge": 88,
+        "Personal Assistant": 10,
+        "Member": 146,
+        "Performance Scientist": 47,
+        "Medical Strategist": 25,
+        "Physiotherapist": 49,
+        "Nutritionist": 45,
+        "Relationship Manager": 6
+      },
+      "topic_distribution": {
+        "General/Other": 125,
+        "Sleep & Recovery": 67,
+        "Nutrition": 58,
+        "Labs/Diagnostics": 47,
+        "Travel/Logistics": 48,
+        "Exercise": 52,
+        "Physical Health": 19
+      }
+    },
+    "adherence_tracking": {
+      "overall_adherence": 0.55,
+      "zone2_exercise": 0.78,
+      "strength_training": 0.52,
+      "nutrition_goals": 0.68,
+      "sleep_targets": 0.58
+    },
+    "monthly_activity": {
+      "9": 72,
+      "10": 64,
+      "11": 31,
+      "12": 51,
+      "1": 58,
+      "2": 54,
+      "3": 42,
+      "4": 44
+    }
+  }
+}
