@@ -83,7 +83,7 @@ export default function Dashboard() {
   if (loading) {
     return (
       <div style={{ padding: 40, textAlign: 'center' }}>
-        <div>Loading Elyx Dashboard...</div>
+        <div>Loding Elyx Dashboard...</div>
         <div style={{ marginTop: 10, fontSize: '0.9rem', color: '#666' }}>
           Analyzing member data and journey
         </div>
