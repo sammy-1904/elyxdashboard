@@ -171,7 +171,7 @@ dist
 
 # Gatsby files
 .cache/
-public
+
 
 # Storybook build outputs
 .out
@@ -247,6 +247,8 @@ dist/
 .idea/
 *.iml
 *.iws
+./frontend/node_modules
+node_modules
 
 # Visual Studio Code
 .vscode/
