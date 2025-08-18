@@ -10,8 +10,8 @@ It visualizes health episodes, labs, training notes, and overall journey in an i
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone -b master https://github.com/sammy-1904/elyxdashboard.git
+cd elyxdashboard
 ```
 
 ---
