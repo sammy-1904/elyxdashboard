@@ -1,0 +1,281 @@
+{
+  "plans": [
+    {
+      "month": 1,
+      "week": 1,
+      "timestamp": "2025-09-05 18:16 SGT",
+      "provider": "Rachel (Physiotherapist)",
+      "category": "Exercise",
+      "plan": {
+        "strength_protocol": "2x/week 25-min sessions",
+        "daily_mobility": "10-min mobility flow",
+        "exercises": [
+          "split squats",
+          "push-ups (tempo)",
+          "suitcase deadlift (single DB)",
+          "plank breathing",
+          "90/90 hip flow"
+        ],
+        "notes": "Hotel-room friendly, minimal equipment"
+      }
+    },
+    {
+      "month": 1,
+      "week": 1,
+      "timestamp": "2025-09-06 10:01 SGT",
+      "provider": "Carla (Nutritionist)",
+      "category": "Nutrition",
+      "plan": {
+        "phase": "Phase 1 (2 weeks)",
+        "plate_method": "50% veg, 25% lean protein, 25% complex carbs at lunch/dinner",
+        "breakfast": [
+          "Greek yogurt + berries + chia",
+          "OR veggie omelet + 1 slice sourdough"
+        ],
+        "supplements": "Omega-3 (1-2g EPA/DHA daily)",
+        "caffeine": "Reduce after 2 PM"
+      }
+    },
+    {
+      "month": 1,
+      "week": 3,
+      "timestamp": "2025-09-15 18:30 SGT",
+      "provider": "Dr. Warren (Medical Strategist)",
+      "category": "Medical",
+      "plan": {
+        "duration": "Phase 1 (8 weeks)",
+        "nutrition": [
+          "Increase omega-3",
+          "Reduce refined carbs on travel days",
+          "Add 30g protein at breakfast"
+        ],
+        "exercise": [
+          "2x strength",
+          "2x zone 2 (30-40 min) weekly",
+          "1 day optional intervals"
+        ],
+        "sleep_stress": [
+          "10-minute evening wind-down",
+          "No-laptop-in-bed rule"
+        ],
+        "bp_monitoring": "Home monitoring for 7 days",
+        "retest": "Full panel in Month 3"
+      }
+    },
+    {
+      "month": 1,
+      "week": 3,
+      "timestamp": "2025-09-18 06:40 SGT",
+      "provider": "Rachel (Physiotherapist)",
+      "category": "Exercise",
+      "plan": {
+        "strength_a": [
+          "Goblet squat",
+          "DB row",
+          "RDL",
+          "Side plank"
+        ],
+        "strength_b": [
+          "Split squat",
+          "Push-up tempo",
+          "Single-leg hip hinge",
+          "Dead bug"
+        ],
+        "zone_2": "2 sessions of 35 min at RPE 4-5/10",
+        "mobility": "10 min nightly hip/tonic extension + thoracic rotations"
+      }
+    },
+    {
+      "month": 1,
+      "week": 4,
+      "timestamp": "2025-09-29 07:40 SGT",
+      "provider": "Ruby (Concierge)",
+      "category": "Summary",
+      "plan": {
+        "month_1_summary": {
+          "adherence": "55%",
+          "sleep": "6h20m average (goal 7h)",
+          "bp": "Travel week higher than baseline",
+          "nutrition": "Breakfast protein improved",
+          "labs": {
+            "lp_a": "Elevated",
+            "apo_b": "Borderline",
+            "hs_crp": "Mild elevation"
+          }
+        },
+        "month_2_actions": [
+          "Target 2 strength + 2 Zone 2 weekly",
+          "Keep caffeine cut-off at 2 PM",
+          "Add 10-minute evening wind-down",
+          "Chef to rotate salmon/sardine twice weekly",
+          "Consider Oura integration"
+        ]
+      }
+    },
+    {
+      "month": 2,
+      "week": 1,
+      "timestamp": "2025-10-01 07:25 SGT",
+      "provider": "Advik (Performance Scientist)",
+      "category": "Experiment",
+      "plan": {
+        "experiment": "Maintain 2 PM caffeine cut-off and add 5-minute evening nasal breathing",
+        "metrics": "Monitor HRV and sleep efficiency shifts"
+      }
+    },
+    {
+      "month": 2,
+      "week": 2,
+      "timestamp": "2025-10-07 20:28 SGT",
+      "provider": "Dr. Warren (Medical Strategist)",
+      "category": "Supplement",
+      "plan": {
+        "creatine": "Start at 3-5g/day, preferably earlier in the day"
+      }
+    },
+    {
+      "month": 2,
+      "week": 3,
+      "timestamp": "2025-10-14 18:15 SGT",
+      "provider": "Rachel (Physiotherapist)",
+      "category": "Exercise",
+      "plan": {
+        "strength_a": [
+          "Goblet squat to box",
+          "Single-arm row",
+          "RDL (light-moderate)",
+          "Side plank with reach"
+        ],
+        "strength_b": [
+          "Step-up low box",
+          "Incline push-up (slower tempo)",
+          "Hip bridge march",
+          "Bird dog with exhale"
+        ],
+        "conditioning": [
+          "Zone 2 x2 (40 min)",
+          "Optional hills/incline 6x45s"
+        ],
+        "mobility": "Couch stretch, thoracic rotation, 90/90 transitions nightly 8-10 minutes",
+        "accessory": "Suitcase carry 3x30-40m on A days"
+      }
+    },
+    {
+      "month": 3,
+      "week": 3,
+      "timestamp": "2025-11-14 18:30 SGT",
+      "provider": "Dr. Warren (Medical Strategist)",
+      "category": "Medical",
+      "plan": {
+        "lifestyle_intensification": {
+          "nutrition": [
+            "30-40g protein at breakfast daily",
+            "Add 1 tbsp extra-virgin olive oil at lunch/dinner",
+            "Oily fish 3x/week",
+            "≥30g fiber/day with psyllium",
+            "Alcohol max 2 drinks/week"
+          ],
+          "exercise": "Continue current protocol",
+          "sleep": "Maintain 2 PM caffeine cut-off and wind-down routine"
+        },
+        "monitoring": "Re-evaluate in February labs for possible pharmacotherapy"
+      }
+    },
+    {
+      "month": 4,
+      "week": 1,
+      "timestamp": "2025-12-01 07:27 SGT",
+      "provider": "Carla (Nutritionist)",
+      "category": "Nutrition",
+      "plan": {
+        "holiday_strategy": [
+          "Pre-event: Protein-forward lunch + 500ml water",
+          "At event: 1 plate rule, protein + veg first",
+          "Alcohol: Max 2 drinks/night; avoid within 3h of sleep",
+          "Post-event: Walk 10-15 minutes + herbal tea"
+        ]
+      }
+    },
+    {
+      "month": 5,
+      "week": 1,
+      "timestamp": "2026-01-02 09:40 SGT",
+      "provider": "Carla (Nutritionist)",
+      "category": "Nutrition",
+      "plan": {
+        "january_reset": [
+          "Breakfast: 30-40g protein daily",
+          "Lunch/Dinner: Plate method + 1 tbsp EVOO",
+          "Fiber: ≥30g/day with psyllium",
+          "Alcohol: 0-2 drinks/week",
+          "Oily fish: 3x/week"
+        ]
+      }
+    },
+    {
+      "month": 6,
+      "week": 3,
+      "timestamp": "2026-02-13 18:30 SGT",
+      "provider": "Dr. Warren (Medical Strategist)",
+      "category": "Medical",
+      "plan": {
+        "statin_initiation": {
+          "dose": "Low-dose",
+          "monitoring": [
+            "Check lipids/ApoB + liver enzymes at 6-8 weeks",
+            "Report any muscle symptoms"
+          ],
+          "nutrition": "No changes to fundamentals"
+        }
+      }
+    },
+    {
+      "month": 7,
+      "week": 1,
+      "timestamp": "2026-03-01 08:00 SGT",
+      "provider": "Advik (Performance Scientist)",
+      "category": "Cognition",
+      "plan": {
+        "cognition_protocol": [
+          "AM: 10-15 min outdoor light within 60-90 min of waking",
+          "Midday: 8-10 min daylight walk + 90s box breathing",
+          "PM: 2 PM caffeine cut-off + 10-12 min wind-down",
+          "Track: HRV, sleep efficiency, subjective focus rating"
+        ]
+      }
+    },
+    {
+      "month": 8,
+      "week": 1,
+      "timestamp": "2026-04-01 08:02 SGT",
+      "provider": "Advik (Performance Scientist)",
+      "category": "Cognition",
+      "plan": {
+        "april_cognition_block": [
+          "AM light within 60 minutes of waking",
+          "Midday walk + breathing before high-stakes calls",
+          "2 PM caffeine cut-off",
+          "Track focus, sleep efficiency, and HRV"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_plans": 14,
+    "categories": {
+      "Exercise": 5,
+      "Nutrition": 4,
+      "Medical": 3,
+      "Cognition": 2,
+      "Experiment": 1,
+      "Supplement": 1
+    },
+    "providers": {
+      "Rachel (Physiotherapist)": 4,
+      "Carla (Nutritionist)": 3,
+      "Dr. Warren (Medical Strategist)": 3,
+      "Advik (Performance Scientist)": 3,
+      "Ruby (Concierge)": 1
+    }
+  }
+}
