@@ -19,6 +19,10 @@ export default function Dashboard() {
   const [isMobile, setIsMobile] = useState(false);
   const [isTablet, setIsTablet] = useState(false);
   const [sidebarOpen, setSidebarOpen] = useState(false);
+ 
+
+
+
 
   // Responsive detection
   useEffect(() => {
@@ -170,6 +174,7 @@ export default function Dashboard() {
                 { key: "plans", label: "Plans", icon: "📝" }, 
                 { key: "timeline", label: "Timeline", icon: "📈" },
                 
+                
                 // { key: "conversations", label: isMobile ? "Messages" : "Communications", icon: "💬" }
               ].map((item) => (
                 <button
@@ -253,9 +258,13 @@ export default function Dashboard() {
               
             </div>
           )}
+          
           {activeView === "plans" && (
   <PlansView isMobile={isMobile} />
 )}
+
+
+
 {activeView === "timeline" && (
   <div>
     <h2 style={{ marginBottom: 20 }}>📈 Journey Timeline</h2>
@@ -412,6 +421,22 @@ const headerContent = {
   maxWidth: '1400px',
   margin: '0 auto',
 };
+const episodeCardContainer = {
+  border: "1px solid #ddd",
+  borderRadius: "12px",
+  padding: "16px",
+  boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
+  marginTop: "20px",
+  background: "#fff",
+};
+
+const sectionStyle = {
+  marginTop: "12px",
+  padding: "10px",
+  background: "#f9fafb",
+  borderRadius: "8px",
+};
+
 
 const titleSection = {
   display: 'flex',
