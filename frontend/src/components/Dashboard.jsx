@@ -154,7 +154,7 @@ export default function Dashboard() {
             <div>
               <h1 style={getMainTitleStyle(isMobile)}>
                 <span style={titleIcon}>🏥</span>
-                Elyx Member Dashboard
+                Elyx Member-Journey Dashboard
               </h1>
               <p style={getSubtitleStyle(isMobile)}>
                 {profile?.name || 'Member'}'s Health Journey & Decision Tracking
